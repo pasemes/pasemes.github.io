@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Software Engineering Explained
+title: Evidence-Based Practice in Software Engineering
 
 # Short description of your site
-description: Evidences and mechanisms of what really works in software development
+description: Uncovering myths, presenting facts, and discussing ideas
 
 # --- Outputting options --- #
 # More information can be found on Jekyll's site
@@ -52,34 +52,34 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  name: Paulo Sérgio Medeiros dos Santos
+  email: "pasemes@gmail.com"
+  #facebook: yourname  # eg. daattali
+  github: pasemes    # eg. daattali
+  twitter: pasemes   # eg. daattali
+  #reddit: yourname    # eg. daattali
+  #google-plus: +pasemes   # eg. +DeanAttali or 109424658772469020925
+  linkedin: paulo-sérgio-medeiros  # eg. daattali
+  #xing: yourname      # eg. daattali
+  stackoverflow: 790270/pasemes  # eg. "3943160/daattali"
+  #snapchat: yourname  # eg. daattali
+  #instagram: yourname # eg. daattali
+  #youtube: yourlink   # eg. user/daattali or channel/daattali
+  #spotify: yourname   # eg. daattali
+  #telephone: yourphone   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
-  stackoverflow: false
+  stackoverflow: true
   snapchat: false
   instagram: false
   youtube: false
