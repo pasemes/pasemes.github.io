@@ -1,6 +1,6 @@
 # pasemes.github.io
 
-Evidence-Based Practice in Software Engineering website [http://evidencebasedpractice.se](http://evidencebasedpractice.se)
+Evidence-Based Practice for Software Engineers website [http://evidencebasedpractice.se](http://evidencebasedpractice.se)
 
 The theme for this website uses the [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/).
 
