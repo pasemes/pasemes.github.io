@@ -19,7 +19,7 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
-      Posted on3 {{ post.date | date: "%B %-d, %Y" }}
+      Posted on {{ post.date | date: "%B %-d, %Y" }} &mdash; <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read
     </p>
 
     <div class="post-entry-container">
