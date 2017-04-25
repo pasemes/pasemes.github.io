@@ -36,7 +36,7 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on1 {{ page.date | date: "%B %-d, %Y" }} <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</span>
+		  <span class="post-meta">Posted on1 {{ page.date | date: "%B %-d, %Y" }} &mdash; <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</span>
 		  {% endif %}
         </div>
       </div>
@@ -61,7 +61,7 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on2 {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta">Posted on2 {{ page.date | date: "%B %-d, %Y" }} &mdash; <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</span>
 		  {% endif %}
         </div>
       </div>
