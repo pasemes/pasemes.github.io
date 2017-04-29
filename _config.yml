@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Evidence-Based Practice for Software Engineers
+title: EBPfSE
 
 # Short description of your site
-description: Software development myths, facts, and new ideas based on evidence
+description: Evidence-Based Practice for Software Engineers
 
 # --- Outputting options --- #
 # More information can be found on Jekyll's site
