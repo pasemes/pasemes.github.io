@@ -20,7 +20,7 @@ One interesting analogy used to illustrate the current situation in our industry
 
 > test!!!!!
 
-[This link](http://example.net/)
+
 [^1]: I refer to software technology as any practice, tool, technique, process, method, or methodology related to software construction.
 [^2]: a.k.a. Yet Another Framework Syndrome (YAFS).
 [^3]: I'm pretty sure that I've read/heard this on several other occasions. Taking a quick look I was only able to find these two discussions ([here](https://dzone.com/articles/dogma-driven-development) and [here](https://www.industriallogic.com/blog/fashion-driven-development/)).
