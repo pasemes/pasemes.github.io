@@ -9,4 +9,6 @@ comments: true
 show-share: true
 show-subscribe: true
 ---
-Text here
+
+So you are wondering what this blog is about. What is that thing called "evidence-based practice" that is supposed to be useful for 
+
