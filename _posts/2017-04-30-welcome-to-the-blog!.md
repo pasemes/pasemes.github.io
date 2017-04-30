@@ -16,7 +16,11 @@ Unfortunately, this is true for the vast majority of professionals in our area. 
 
 At this point, you are probably thinking: "I do not follow these guys! Who still follow them?". Ok, it is my perception too that their influence is declining. However, the presence of "gurus" is still pervasive. Conferences are full of specialists and experts with a vast repertoire of practices and a broad variety of tools ready to be applied in software projects. As one can see, this ranges from the softer parts of software development, such as process and practices, to the harder side of tools and frameworks. Take the Agile Software Development as an example. It was proposed by a bunch of guys telling us how software should be developed. At least, they were indeed clever and knowledgeable, and experience can be considered a kind of (weak) evidence. We will discuss what should be considered evidence in a minute. In the tools and frameworks arena, the problem is the same. Who needs yet another javascript (or any other language) framework[^2]? 
 
+One interesting analogy used to illustrate the current situation in our industry is the "fashion-driven development"[^3]. The idea is that if you are not using the very latest practice, technique, framework, or tool, then 
+
 > test!!!!!
 
 [^1]: I refer to software technology as any practice, tool, technique, process, method, or methodology related to software construction.
-[^2]: a.k.a.  
+[^2]: a.k.a. Yet Another Framework Syndrome (YAFS).
+[^3]: I'm pretty sure that I've listened to this in several other occasions. 
+https://www.industriallogic.com/blog/fashion-driven-development/
