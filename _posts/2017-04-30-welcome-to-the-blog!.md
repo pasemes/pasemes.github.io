@@ -19,8 +19,8 @@ At this point, you are probably thinking: "I do not follow these guys! Who still
 One interesting analogy used to illustrate the current situation in our industry is the "fashion-driven development"[^3]. The idea is that if you are not using the very latest practice, technique, framework, or tool, then 
 
 > test!!!!!
-
+[This link](http://example.net/)
 [^1]: I refer to software technology as any practice, tool, technique, process, method, or methodology related to software construction.
 [^2]: a.k.a. Yet Another Framework Syndrome (YAFS).
-[^3]: I'm pretty sure that I've read/heard this on several other occasions, but taking a quick look I was only able to find these two
-https://www.industriallogic.com/blog/fashion-driven-development/
+[^3]: I'm pretty sure that I've read/heard this on several other occasions. Taking a quick look I was only able to find these two discussions ([here](https://dzone.com/articles/dogma-driven-development) and [here](https://www.industriallogic.com/blog/fashion-driven-development/)).
+
