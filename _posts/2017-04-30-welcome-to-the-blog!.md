@@ -17,7 +17,7 @@ Unfortunately this is true for the vast majority of professionals in our area. F
 At this point you are probably thinking: "I do not follow these guys! Who still follow them?". Ok, it is my perception too that their influence is declining. However, the presence of "gurus" is still pervasive. Conferences are full of specialists and experts with a vast repertoire of practices and a broad variety of tools ready to be applied in software projects. As one can see, this ranges from the softer parts of software development, such as process and practices, to the harder side like tools and frameworks. Take the Agile Software Development as example. It was proposed by a bunch of guys telling us how software should be developed. At least, they were indeed clever and knowledgeable, and experience can be considered a kind of evidence. We will discuss what should be considered evidence in a minute. Nevertheless, the lack of evidence is on the more hard parts of   ...
 
 
-
+> test
 
 
 
