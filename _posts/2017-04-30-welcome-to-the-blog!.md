@@ -22,4 +22,5 @@ At this point you are probably thinking: "I do not follow these guys! Who still 
 
 
 [^1]: I refer to software technology as any practice, tool, technique, process, method, or methodology related to software construction.
+
 [^2]: a.k.a. asdads
