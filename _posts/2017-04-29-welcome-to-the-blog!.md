@@ -10,5 +10,7 @@ show-share: true
 show-subscribe: true
 ---
 
-So you are wondering what this blog is about. What is that thing called "evidence-based practice" that is supposed to be useful for 
+So you are wondering what this blog is about. What is that thing called "evidence-based practice" that is supposed to be useful for me (a software engineer).
+
+Unfortunately this is true for the vast majority of professionals. In our area, the role responsible for indicating which technology we should be using in our projects is denominated software evangelist. 
 
