@@ -22,5 +22,5 @@ One interesting analogy used to illustrate the current situation in our industry
 
 [^1]: I refer to software technology as any practice, tool, technique, process, method, or methodology related to software construction.
 [^2]: a.k.a. Yet Another Framework Syndrome (YAFS).
-[^3]: I'm pretty sure that I've listened to this in several other occasions. 
+[^3]: I'm pretty sure that I've read/heard this on several other occasions, but taking a quick look I was only able to find these two
 https://www.industriallogic.com/blog/fashion-driven-development/
