@@ -26,7 +26,7 @@ Regardless of its simplicity, the notion of evidence is virtually completely ign
 
 > Why the notion of evidence is ignored ir our area and how we can change this is precisely the topic of this blog.
 
-Currently, the discourse regarding the evidence-based practice is mostly confined to academics. I'm "partly" one of them, but before you turn your nose up[^7] at this blog , I should mention that it is my utmost goal to change this chasm between professionals and researchers. In addition, I should also mention that I'm a professional software developer myself (mostly a backend developer in Java and C#). I've just left my last job to 
+Currently, the discourse regarding the evidence-based practice is mostly confined to academics. I'm "partly" one of them, but before you turn your nose up[^7] at this blog , I should mention that it is my utmost goal to change this chasm between professionals and researchers. In addition, I should also mention that I'm a professional software developer myself (mostly a backend developer in Java and C#). I've just left my last job at a big oil and gas company here in Brazil to dedicate myself to this blog and other related initiatives. I hope to talk about them soon. 
 
 -----------------------------
 
