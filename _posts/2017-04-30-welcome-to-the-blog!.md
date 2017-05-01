@@ -20,9 +20,12 @@ One interesting analogy used to illustrate the current situation in our industry
 
 > In summary, software development technologies are created (and adopted) without any kind of evidence of its usefulness (and usability[^4]). 
 
+But what is evidence? If you thought about the answer it as simple as that: ""
+
+-----------------------------
 
 [^1]: I refer to software technology as any practice, tool, technique, process, method, or methodology related to software construction.
 [^2]: a.k.a. Yet Another Framework Syndrome (YAFS).
 [^3]: I'm pretty sure that I've read/heard this on several other occasions. In a quick search I was able to find these two discussions ([here](https://dzone.com/articles/dogma-driven-development) and [here](https://www.industriallogic.com/blog/fashion-driven-development/)).
-[^4]: I use the term usability, but I prefer the more broad notion of ergonomics. 
+[^4]: I use the term usability since it is most acknowledged, but I prefer the more broad notion of ergonomics. 
 
