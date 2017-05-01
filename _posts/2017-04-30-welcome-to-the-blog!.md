@@ -22,7 +22,11 @@ One interesting analogy used to illustrate the current situation in our industry
 
 But what is evidence? If you thought about the answer it as simple as what you have thought: "one or more reasons for believing that something is or is not true"[^5]. I have to add to that definition that the reasons must be factual (not theoretical). That is why I said experience is a kind of evidence, but a weak one. I'll leave the discussion for why it is weak for another post, but it is essentially related to bias. 
 
-Regardless of its simplicity, the notion of evidence is virtually completely ignored in our area. Why this happens and how we can change this is precisely the topic of this blog. To address this theme I will provide you with evidence about contemporary technologies. I'm pretty sure that most of them will surprise you (did you know that TDD is not really better than manual testing?[). It is also my intention to propose (simple) means by which evidence can be used in and generated from our practice. Doesn't this make me another guru?! Sure, but I'll provide evidence for what will be proposed here. Still, interestingly enough, providing evidence for the evidence-based practice is a philosophical discussion.  Currently, the discourse regarding the evidence-based practice is mostly confined to academics. I'm "partly" one of them, but before you turn your nose up at this blog  
+Regardless of its simplicity, the notion of evidence is virtually completely ignored in our area. Why this happens and how we can change this is precisely the topic of this blog. To address this theme I will provide you with evidence about contemporary technologies. I'm pretty sure that most of them will surprise you (did you know that TDD is not really better than manual testing?[^6]). It is also my intention to propose (simple) means by which evidence can be used in and generated from our practice. Doesn't this make me another guru?! Sure, but I'll provide evidence for what will be proposed here. Still, interestingly enough, providing evidence for the evidence-based practice is a philosophical discussion.  
+
+> Why the notion of evidence is ignored ir our area and how we can change this is precisely the topic of this blog.
+
+Currently, the discourse regarding the evidence-based practice is mostly confined to academics. I'm "partly" one of them, but before you turn your nose up[^7] at this blog , I should mention that it is my utmost goal to change this chasm between professionals and researchers. In addition, I should also mention that I'm a professional software developer myself (mostly a backend developer in Java and C#). I've just left my last job to 
 
 -----------------------------
 
@@ -30,4 +34,6 @@ Regardless of its simplicity, the notion of evidence is virtually completely ign
 [^2]: a.k.a. Yet Another Framework Syndrome (YAFS).
 [^3]: I'm pretty sure that I've read/heard this on several other occasions. In a quick search I was able to find these two discussions ([here](https://dzone.com/articles/dogma-driven-development) and [here](https://www.industriallogic.com/blog/fashion-driven-development/)).
 [^4]: I use the term usability since it is most acknowledged, but I prefer the more broad notion of ergonomics. 
-[^5]: 
+[^5]: From [Cambridge dictionary] (http://dictionary.cambridge.org/dictionary/english/evidence).
+[^6]: XXXXXXXXXXXXXXXXXXXXXXXX
+[^7]: Yes, I know that research in software engineering does not have credibility among software developers. 
