@@ -36,6 +36,6 @@ Currently, the discourse regarding the evidence-based practice is mostly confine
 [^3]: I'm pretty sure that I've read/heard this on several other occasions, but I did not keep the sources. Still, in a quick search I was able to find these two discussions ([here](https://dzone.com/articles/dogma-driven-development) and [here](https://www.industriallogic.com/blog/fashion-driven-development/)).
 [^4]: I use the term usability since it is most acknowledged, but I prefer the more broad notion of ergonomics. 
 [^5]: From [Cambridge dictionary](http://dictionary.cambridge.org/dictionary/english/evidence).
-[^6]: http://ieeexplore.ieee.org/document/6197200/
+[^6]: [The Effects of Test-Driven Development on External Quality and Productivity: A Meta-Analysis](http://ieeexplore.ieee.org/document/6197200/)
 [^7]: Yes, I know that research in software engineering does not have credibility among software developers. 
 [^8]: In fact, the need for "application oriented" research is not mine, it is a quote from [Dieter Rombach](https://scholar.google.com/citations?user=OpsrHLAAAAAJ).
