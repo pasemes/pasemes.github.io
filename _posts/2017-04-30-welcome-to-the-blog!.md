@@ -22,7 +22,7 @@ One interesting analogy used to illustrate the current situation in our industry
 
 But what is evidence? If you thought about the answer it as simple as what you have thought: "one or more reasons for believing that something is or is not true"[^5]. I have to add to that definition that the reasons must be factual (not theoretical). That is why I said experience is a kind of evidence, but a weak one. I'll leave the discussion for why it is weak for another post, but it is essentially related with bias. 
 
-Regardless of its simplicity, the notion of evidence is virtually completely ignored in our area. Why this happens and how we can change this is precisely the topic of this blog. I hope I can 
+Regardless of its simplicity, the notion of evidence is virtually completely ignored in our area. Why this happens and how we can change this is precisely the topic of this blog. I hope I can ... It is also my intention to propose (simple) means 
 
 bring Currently
 
