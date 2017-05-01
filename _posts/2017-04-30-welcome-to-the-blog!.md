@@ -26,7 +26,7 @@ Regardless of its simplicity, the notion of evidence is virtually completely ign
 
 > Why the notion of evidence is ignored in our area and how we can change this is precisely the topic of this blog.
 
-Currently, the discourse regarding the evidence-based practice is mostly confined to academics. I'm "partly" one of them, but before you turn your nose up[^7] at this blog, I should mention that my utmost goal is to change this chasm between professionals and researchers. I'll try turn you a little more scientist in the same way I argue with my colleagues that research which is not practical is not research. In addition, I should also mention that I'm a professional software developer myself (mostly a backend developer in Java and C#). I've just left my last job at a big oil and gas company here in Brazil to dedicate myself to this blog and other related initiatives. I hope to talk about them soon. 
+Currently, the discourse regarding the evidence-based practice is mostly confined to academics. I'm "partly" one of them, but before you turn your nose up[^7] at this blog, I should mention that my utmost goal is to change this chasm between professionals and researchers. I'll try to turn you a little more scientist in the same way I argue with my colleagues that research which is not practical is not research. In addition, I should also mention that I'm a professional software developer myself (mostly a backend developer in Java and C#). I've just left my last job at a big oil and gas company here in Brazil to dedicate myself to this blog and other related initiatives. I hope to talk about them soon. 
 
 -----------------------------
 
@@ -34,6 +34,6 @@ Currently, the discourse regarding the evidence-based practice is mostly confine
 [^2]: a.k.a. Yet Another Framework Syndrome (YAFS).
 [^3]: I'm pretty sure that I've read/heard this on several other occasions, but I did not keep the sources. Still, in a quick search I was able to find these two discussions ([here](https://dzone.com/articles/dogma-driven-development) and [here](https://www.industriallogic.com/blog/fashion-driven-development/)).
 [^4]: I use the term usability since it is most acknowledged, but I prefer the more broad notion of ergonomics. 
-[^5]: From [Cambridge dictionary] (http://dictionary.cambridge.org/dictionary/english/evidence).
-[^6]: XXXXXXXXXXXXXXXXXXXXXXXX
+[^5]: From [Cambridge dictionary](http://dictionary.cambridge.org/dictionary/english/evidence).
+[^6]: http://ieeexplore.ieee.org/document/6197200/
 [^7]: Yes, I know that research in software engineering does not have credibility among software developers. 
