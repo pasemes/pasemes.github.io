@@ -2,7 +2,8 @@
 layout: post
 title: "Welcome to the blog!"
 tags: [personal, meta, blog]
-date: 2017-04-30 12:00:00 -0300
+bigimg: /img/blog/welcome-to-the-blog/evidence.jpg
+date: 2017-05-01 12:00:00 -0300
 permalink: /blog/welcome-to-the-blog/
 layout: post
 comments: true
@@ -26,7 +27,7 @@ Regardless of its simplicity, the notion of evidence is virtually completely ign
 
 > Why the notion of evidence is ignored in our area and how we can change this is precisely the topic of this blog.
 
-Currently, the discourse regarding the evidence-based practice is mostly confined to academics. I'm "partly" one of them, but before you turn your nose up[^7] at this blog, I should mention that my utmost goal is to change this chasm between professionals and researchers. I'll try to turn you a little more scientist in the same way I argue with my colleagues that research which is not practical is not research. In addition, I should also mention that I'm a professional software developer myself (mostly a backend developer in Java and C#). I've just left my last job at a big oil and gas company here in Brazil to dedicate myself to this blog and other related initiatives. I hope to talk about them soon. 
+Currently, the discourse regarding the evidence-based practice is mostly confined to academics. I'm "partly" one of them, but before you turn your nose up[^7] at this blog, I should mention that my utmost goal is to change this chasm between professionals and researchers. I'll try to turn you a little more scientist in the same way I argue with my colleagues that all in software engineering must be application oriented[^8]. In addition, I should also mention that I'm a professional software developer myself (mostly a backend developer in Java and C#). I've just left my last job at a big oil and gas company here in Brazil to dedicate myself to this blog and other related initiatives. I hope to talk about them soon. 
 
 -----------------------------
 
@@ -37,3 +38,4 @@ Currently, the discourse regarding the evidence-based practice is mostly confine
 [^5]: From [Cambridge dictionary](http://dictionary.cambridge.org/dictionary/english/evidence).
 [^6]: http://ieeexplore.ieee.org/document/6197200/
 [^7]: Yes, I know that research in software engineering does not have credibility among software developers. 
+[^8]: In fact, the need for "application oriented" research is not mine, it is a quote from [Dieter Rombach](https://scholar.google.com/citations?user=OpsrHLAAAAAJ).
