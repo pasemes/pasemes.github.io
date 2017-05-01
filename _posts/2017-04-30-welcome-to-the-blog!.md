@@ -18,9 +18,13 @@ At this point, you are probably thinking: "I do not follow these guys! Who still
 
 One interesting analogy used to illustrate the current situation in our industry is the "fashion-driven development"[^3]. The idea is that if you are not using the very latest practice, technique, framework, or tool, then you are wrong (to put in simple terms). Again, this translates the reality of several conference talks, blog posts, podcasts --- you name it. One thing that particularly annoys me is how frameworks are described. Here are a few (I omit the names to test your memory, I'm pretty sure that you are going to remember some of them):  "the web framework for perfectionists with deadlines"; "...is a powerful web framework, for the Java platform aimed at multiplying developers' productivity"; "A framework for creating ambitious web applications"; "The XXXXXXX Framework For Web Artisans". Well, you got the idea. 
 
-> In summary, software development technologies are created (and adopted) without any kind of evidence of its usefulness (and usability[^4]). 
+> In summary, most software development technologies are created (and adopted) without any kind of evidence of its usefulness (and usability[^4]). 
 
-But what is evidence? If you thought about the answer it as simple as that: ""
+But what is evidence? If you thought about the answer it as simple as what you have thought: "one or more reasons for believing that something is or is not true"[^5]. I have to add to that definition that the reasons must be factual (not theoretical). That is why I said experience is a kind of evidence, but a weak one. I'll leave the discussion for why it is weak for another post, but it is essentially related with bias. 
+
+Regardless of its simplicity, the notion of evidence is virtually completely ignored in our area. Why this happens and how we can change this is precisely the topic of this blog. I hope I can 
+
+bring Currently
 
 -----------------------------
 
@@ -28,4 +32,4 @@ But what is evidence? If you thought about the answer it as simple as that: ""
 [^2]: a.k.a. Yet Another Framework Syndrome (YAFS).
 [^3]: I'm pretty sure that I've read/heard this on several other occasions. In a quick search I was able to find these two discussions ([here](https://dzone.com/articles/dogma-driven-development) and [here](https://www.industriallogic.com/blog/fashion-driven-development/)).
 [^4]: I use the term usability since it is most acknowledged, but I prefer the more broad notion of ergonomics. 
-
+[^5]: 
