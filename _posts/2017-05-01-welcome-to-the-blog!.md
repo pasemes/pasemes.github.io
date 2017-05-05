@@ -33,7 +33,7 @@ Currently, the discourse regarding the evidence-based practice is mostly confine
 
 [^1]: I refer to software technology as any practice, tool, technique, process, method, or methodology related to software construction.
 [^2]: a.k.a. Yet Another Framework Syndrome (YAFS).
-[^3]: I'm pretty sure that I've read/heard this on several other occasions, but I did not keep the sources. Still, in a quick search I was able to find these two discussions ([here](https://dzone.com/articles/dogma-driven-development) and [here](https://www.industriallogic.com/blog/fashion-driven-development/)).
+[^3]: I'm pretty sure that I've read/heard this on several other occasions, but I did not keep the sources. Still, in a quick search I was able to find these two discussions ([here!!!!](https://dzone.com/articles/dogma-driven-development){:target="_blank"} and [here](https://www.industriallogic.com/blog/fashion-driven-development/)).
 [^4]: I use the term usability since it is most acknowledged, but I prefer the more broad notion of ergonomics. 
 [^5]: From [Cambridge dictionary](http://dictionary.cambridge.org/dictionary/english/evidence).
 [^6]: [The Effects of Test-Driven Development on External Quality and Productivity: A Meta-Analysis](http://ieeexplore.ieee.org/document/6197200/)
