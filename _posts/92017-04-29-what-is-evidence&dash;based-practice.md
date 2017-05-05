@@ -6,7 +6,7 @@ The notion of EBP dates from the beginning of the 1990s in the Medicine discipli
 
 > 
 
-Since its proposal, EBM received huge attention. The term was then generalized from EBM to EBP. And several fields have adopted EBP aiming at improving its decision-making process such as Administration, Nursing, Marketing, and, of course, Software Engineering. In our case, EBP was brought in 2004 by Barbara Kitchenham and her coleagues in the International Conference on Software Engineering. However, even though this was the first paper mentioning EBP in Software Engineering, which was called Evidence-Based Sofware Engineering, 
+Since its proposal, EBM received huge attention. The term was then generalized from EBM to EBP. And several fields have adopted EBP aiming at improving its decision-making process such as Administration, Nursing, Marketing, and, of course, Software Engineering. In our case, EBP was brought in 2004 by Barbara Kitchenham and her coleagues in the International Conference on Software Engineering. Still, even though this was the first paper mentioning EBP in Software Engineering, which was called Evidence-Based Sofware Engineering, the field promotes the evidence (through experimentation) since 1978. A research field denominated Empirical Software Engineering.  
 
 
 
