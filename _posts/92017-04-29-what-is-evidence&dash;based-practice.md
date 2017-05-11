@@ -8,12 +8,12 @@ The notion of EBP dates from the beginning of the 1990s in the Medicine discipli
 
 > The basic idea of the Evidence-Based Medicine is to bring more certainty to clinical decision making.
 
-Since its proposal, EBM received huge attention. The term was then generalized from EBM to EBP. And several fields have adopted EBP aiming at improving its decision-making process such as Administration, Nursing, Marketing, and, of course, Software Engineering. In our case, EBP was brought in 2004 by Barbara Kitchenham and her colleagues in the International Conference on Software Engineering[^4]. Still, even though this was the first mention of EBP in Software Engineering, which was then denominated Evidence-Based Sofware Engineering (EBSE), the field promotes the evidence (through experimentation) since 1978. The general research topic under which experimentation and evidence is investigated is called Empirical Software Engineering.  
+Since its proposal, EBM received huge attention. The term was then generalized from EBM to EBP. And several fields have adopted EBP aiming at improving its decision-making process such as Administration, Nursing, Marketing, and, of course, Software Engineering. In our case, EBP was brought in 2004 by Barbara Kitchenham and her colleagues in the International Conference on Software Engineering[^4]. Still, even though this was the first mention of EBP in Software Engineering, which was then denominated Evidence-Based Sofware Engineering (EBSE), the field promotes the evidence (through experimentation) since 1978. The general research topic under which experimentation and evidence are investigated is called Empirical Software Engineering.  
 
 # Evidence-Based Software Engineering
 
 Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. 
-The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the hype of the moment, we should be 
+The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the hype of the moment, we should be seeking the reasons to believe that a software development technology will provide the support we expect from it. In 
 
 
 5 passos da ebp
