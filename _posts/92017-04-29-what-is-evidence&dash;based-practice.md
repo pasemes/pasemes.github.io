@@ -13,7 +13,27 @@ Since its proposal, EBM received huge attention. The term was then generalized f
 # Evidence-Based Software Engineering
 
 Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. 
-The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the hype of the moment, EBP should enable us to seek for the reasons for believing that a software development technology will provide the support we expect from it. In 
+The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the hype of the moment, EBP should enable us to seek for the reasons to believe that a software development technology will provide the support we expect from it. Theoretically, researchers from Empirical Software Engineering operationalize ESBE in five steps:
+
+1. Convert a relevant problem or information need into an answerable question;
+2. Search the literature for the best available evidence to answer the question;
+3. Critically appraise the evidence for its validity, impact, and applicability;
+4. Integrate the appraised evidence with practical experience and the customers values and circumstances to make decisions about practice;
+5. Evaluate performance and seek ways to improve it.
+
+As one may see, this definition is made by researchers (for researchers
+
+
+David Sackett and
+his colleagues suggest that well-formulated
+questions usually have three components:2
+  The main intervention or action youre interested
+in
+  The context or specific situations of interest
+  The main outcomes or effects of interest
+
+
+
 
 
 5 passos da ebp
