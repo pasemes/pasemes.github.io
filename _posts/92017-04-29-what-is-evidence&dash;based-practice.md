@@ -12,8 +12,8 @@ Since its proposal, EBM received huge attention. The term was then generalized f
 
 # Evidence-Based Software Engineering
 
-Ok, so now that you know the origin of EBP and what it is about, it is time to understand how  EBP can help our field to get out of the fashion-oriented industry to a real engineering field. 
-The EBP is about asking the right question to search for the evidence available. 
+Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. 
+The EBP is about asking the right question to search for the evidence available. Thus, instead of look for the hype of the moment, we should be 
 
 
 5 passos da ebp
