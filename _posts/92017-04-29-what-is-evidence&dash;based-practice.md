@@ -20,7 +20,7 @@ The EBP is about asking the right question to search for the evidence available.
 
 Since them the EBP 
 
-Critics claim that EBM lacks utility on several levels. Some claim that it transforms the complex process of clinical decision makingwhich includes data gathering, years of medical knowledge, experience, and astute intuitioninto an algorithmic exercise that is not individualized for specific clinical scenarios and therefore subject to error in patient care
+Critics claim that EBM lacks utility on several levels. Some claim that it transforms the complex process of clinical decision making, which includes data gathering, years of medical knowledge, experience, and astute intuition into an algorithmic exercise that is not individualized for specific clinical scenarios and therefore subject to error in patient care
 
 # My criticisms: why EBSE isn't widely adopted by software engineers?
 
