@@ -26,8 +26,6 @@ Theoretically, researchers from Empirical Software Engineering operationalize ES
 4. Integrate the appraised evidence with practical experience and the customer's values and circumstances to make decisions about practice;
 5. Evaluate performance and seek ways to improve it.
 
-Based on these definitions, I can't blame you for not knowing what ESBE is. I could list a number of arguments for that, and indeed I will focus on them before finishing this post, but there is one which is sufficient to explain the situation. It says that you must search the best evidence from *research*, which "for a good understander" means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the name is *Evidence*
-
 
  it is easy to see why
 
@@ -50,9 +48,15 @@ in
 
 Since them the EBP 
 
-Critics claim that EBM lacks utility on several levels. Some claim that it transforms the complex process of clinical decision making, which includes data gathering, years of medical knowledge, experience, and astute intuition into an algorithmic exercise that is not individualized for specific clinical scenarios and therefore subject to error in patient care
 
 # My criticisms: why EBSE isn't widely adopted by software engineers?
+
+Based on these definitions, I can't blame you for not knowing what ESBE is. I could list a number of arguments for that, and indeed I will focus on them before finishing this post, but there is one which is sufficient to explain the situation. It says that you must search the best evidence from *research*, which "for a good understander"[^6] means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the name is *Evidence*-Based Software Engineering. 
+
+> Stricly speaking, the EBSE imposes an artificial hierarchy between researchers and software engineers, which obviously is not going to be accepted by the latter. Why software engineers would have to accept prescriptions regarding how we should work, even in the form of the divine, pure and sublime evidence?
+
+Indeed, this ... Critics claim that EBM lacks utility on several levels. Some claim that it transforms the complex process of clinical decision making, which includes data gathering, years of medical knowledge, experience, and astute intuition into an algorithmic exercise that is not individualized for specific clinical scenarios and therefore subject to error in patient care
+
 
 
 [^1]: Evidence represents "one or more (factual) reasons for believing that something is or is not true". This definition was discussed on the previous [post](http://www.evidencebasedpractice.se/blog/welcome-to-the-blog/).
@@ -60,3 +64,4 @@ Critics claim that EBM lacks utility on several levels. Some claim that it trans
 [^3]: [History of evidence-based medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263217/).
 [^4]: [Evidence-Based Software Engineering](http://dl.acm.org/citation.cfm?id=998675.999432)
 [^5]: [Evidence-based software engineering for practitioners](http://ieeexplore.ieee.org/document/1377125/)
+[^6]: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
