@@ -10,18 +10,28 @@ The notion of EBP dates from the beginning of the 1990s in the Medicine discipli
 
 Since its proposal, EBM received huge attention. The term was then generalized from EBM to EBP. And several fields have adopted EBP aiming at improving its decision-making process such as Administration, Nursing, Marketing, and, of course, Software Engineering. In our case, EBP was brought in 2004 by Barbara Kitchenham and her colleagues in the International Conference on Software Engineering[^4]. Still, even though this was the first mention of EBP in Software Engineering, which was then denominated Evidence-Based Sofware Engineering (EBSE), the field promotes the evidence (through experimentation) since 1978. The general research topic under which experimentation and evidence are investigated is called Empirical Software Engineering.  
 
-# Evidence-Based Software Engineering
+# Evidence-Based Software Engineering (in the view of researchers)
 
 Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. 
-The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the hype of the moment, EBP should enable us to seek for the reasons to believe that a software development technology will provide the support we expect from it. Theoretically, researchers from Empirical Software Engineering operationalize ESBE in five steps:
+The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the "hype of the moment", EBP should enable us to seek for the reasons to believe that a software development technology will provide the support we expect from it. Based on the definition from Medicine, the EBSE is defined as follows[^4]:
+
+> To provide the means by which current best evidence from research can be integrated with practical experience and human values in the decision making process regarding the development
+and maintenance of software.
+
+Theoretically, researchers from Empirical Software Engineering operationalize ESBE in five steps[^5]:
 
 1. Convert a relevant problem or information need into an answerable question;
 2. Search the literature for the best available evidence to answer the question;
 3. Critically appraise the evidence for its validity, impact, and applicability;
-4. Integrate the appraised evidence with practical experience and the customers values and circumstances to make decisions about practice;
+4. Integrate the appraised evidence with practical experience and the customer's values and circumstances to make decisions about practice;
 5. Evaluate performance and seek ways to improve it.
 
-As one may see, this definition is made by researchers (for researchers
+Based on these definitions, I can't blame you for not knowing what ESBE is. I could list a number of arguments for that, and indeed I will focus on them before finishing this post, but there is one which is sufficient to explain the situation. It says that you must search the best evidence from *research*, which "for a good understander" means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the name is *Evidence*
+
+
+ it is easy to see why
+
+As one may see, this definition unfortunately imposes an hierarchy among software developers and researchers, given that the best evidence should be found 
 
 
 David Sackett and
