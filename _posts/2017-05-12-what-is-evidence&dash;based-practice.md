@@ -61,7 +61,7 @@ In this blog, I expect to contribute to all these areas. Regarding the item (i),
 
 -----------------------------
 
-[^1]: Evidence represents "one or more (factual) reasons for believing that something is or is not true". This definition was discussed on the previous [post].(http://www.evidencebasedpractice.se/blog/welcome-to-the-blog/).
+[^1]: Evidence represents "one or more (factual) reasons for believing that something is or is not true". This definition was discussed on the previous [post](http://www.evidencebasedpractice.se/blog/welcome-to-the-blog/).
 [^2]: [Evidence-based medicine](http://www.acpjc.org/Content/114/2/issue/ACPJC-1991-114-2-A16.htm)
 [^3]: [History of evidence-based medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263217/).
 [^4]: [Evidence-Based Software Engineering](http://dl.acm.org/citation.cfm?id=998675.999432).
