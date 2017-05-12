@@ -29,7 +29,7 @@ Ok, so now that you know the origin of EBP and what it is about, it is time to u
 
 > To provide the means by which current best evidence from research can be integrated with practical experience and human values in the decision-making process regarding the development and maintenance of software.
 
-To achieve this goal, researchers from Empirical Software Engineering operationalize ESBE in five steps[^5]:
+To achieve this goal, researchers from Empirical Software Engineering operationalized ESBE in five steps[^5]:
 
 1. Convert a relevant problem or information need into an answerable question;
 2. Search the literature for the best available evidence to answer the question;
