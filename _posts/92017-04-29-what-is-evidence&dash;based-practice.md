@@ -19,7 +19,7 @@ The EBP is about asking the right question (to search for the evidence available
 > To provide the means by which current best evidence from research can be integrated with practical experience and human values in the decision-making process regarding the development
 and maintenance of software.
 
-Theoretically, researchers from Empirical Software Engineering operationalize ESBE in five steps[^5]:
+To achieve this goal, researchers from Empirical Software Engineering operationalize ESBE in five steps[^5]:
 
 1. Convert a relevant problem or information need into an answerable question;
 2. Search the literature for the best available evidence to answer the question;
@@ -27,19 +27,7 @@ Theoretically, researchers from Empirical Software Engineering operationalize ES
 4. Integrate the appraised evidence with practical experience and the customer's values and circumstances to make decisions about practice;
 5. Evaluate performance and seek ways to improve it.
 
-
- it is easy to see why
-
-As one may see, this definition unfortunately imposes an hierarchy among software developers and researchers, given that the best evidence should be found 
-
-
-David Sackett and
-his colleagues suggest that well-formulated
-questions usually have three components:2
-  The main intervention or action youre interested
-in
-  The context or specific situations of interest
-  The main outcomes or effects of interest
+I
 
 
 
