@@ -40,7 +40,10 @@ In addition to these issues, which I consider the most salient, there are severa
 
 # How can we change that? 
 
-The EBP is clearly not a panacea. Still, apart from the issues discussed, I hope that you are convinced that it is imperative we stop creating new technologies without any evidence regarding its utility and potential benefits.
+The EBP is clearly not a panacea. Still, apart from the issues discussed, I hope that you are convinced that it is imperative we stop creating new technologies without any evidence regarding its utility and potential benefits. Hence, it is also urgent that we find the means to build body of evidence that are readily available for software engineers. In my view, there are three main areas that we must act upon: (i) software engineers need to produce evidence, (ii) a description format for evidence, and (iii) an infrastructure to support searching and managing the available evidence.
+
+and It is my goal to contribute to this need in this blog. My intention is to 
+
 
 [^1]: Evidence represents "one or more (factual) reasons for believing that something is or is not true". This definition was discussed on the previous [post].(http://www.evidencebasedpractice.se/blog/welcome-to-the-blog/).
 [^2]: Guyatt GH. Evidence-based medicine. ACP J Club. 1991;114:A16.
