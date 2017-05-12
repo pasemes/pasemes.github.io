@@ -27,20 +27,13 @@ To achieve this goal, researchers from Empirical Software Engineering operationa
 4. Integrate the appraised evidence with practical experience and the customer's values and circumstances to make decisions about practice;
 5. Evaluate performance and seek ways to improve it.
 
-I
 
 
-
-
-
-5 passos da ebp
-
-Since them the EBP 
 
 
 # My criticisms: why EBSE isn't widely adopted by software engineers?
 
-Based on these definitions, I can't blame you for not knowing what ESBE is. I could list a number of arguments for that, and indeed I will focus on them before finishing this post, but there is one which is sufficient to explain the situation. It says that you must search the best evidence from *research*, which "for a good understander"[^6] means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the practice is called *Evidence*-Based Software Engineering. 
+Based on these definitions, I can't blame you for not knowing what ESBE is. I could list a number of arguments for that, but there is one which in my view is sufficient to explain the situation. It says that you must search the best evidence from *research*, which "for a good understander"[^6] means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the practice is called *Evidence*-Based Software Engineering. 
 
 > Stricly speaking, the EBSE imposes an artificial hierarchy between researchers and software engineers, which obviously is not going to be accepted by the latter. Why software engineers would have to accept prescriptions regarding how we should work, even in the form of the divine, pure and sublime evidence?
 
