@@ -27,17 +27,7 @@ To achieve this goal, researchers from Empirical Software Engineering operationa
 
 The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the "hype of the moment", EBP should enable us to seek for the reasons to believe that a software development technology will provide the support we expect from it. But how you can find the evidence?
 
-I'll try to be succinct here since the steps do not make this clear. They only hint that you will find the answer for your problem in the literature. However, surveying the literature is a hard task. There are a huge amount of scientific articles published, which must be screened to obtain the answer. To perform this orderly, systematic review is proposed as procedure to translate the "right question" into a search string and the criteria to appraise the evidence (steps 2 and 3). Fortunately, there are 
-
-Systematic reviews 
-
-The process described above assumes that you --- for instance, a software developer or manager --- is going to formulate a 
-
-primary studies 
-
-From these steps, it is possible to see that ESBE depends 
-
-
+I'll try to be succinct here since the steps do not make this clear. They only hint that you will find the answer for your problem in the literature. However, surveying the literature is a hard task. There are a huge amount of scientific articles published, which must be screened to obtain the answer. To perform this orderly, systematic review is proposed as a procedure to translate the "right question" into a search string and the criteria to appraise the evidence (steps 2 and 3). Fortunately, several software engineering topics have been target of systematic reviews (up until 2010 there were 67 reviews covering 24 topics). After that you are on your own (steps 4 and 5), it is expected that you understand the papers and can extract the necessary information to integrate the evidence with your practical experience. As one can see, this is not an easy task as well. Below, I'll explore this and other aspects regarding the researcher view of EBSE.
 
 # My criticisms: why EBSE isn't widely adopted by software engineers?
 
