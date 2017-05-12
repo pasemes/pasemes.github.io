@@ -37,7 +37,7 @@ From these steps, it is possible to see that ESBE depends
 
 Based on these definitions, I can't blame you for not knowing what ESBE is. I could list a number of arguments for that, but there is one which in my view is sufficient to explain the situation. It says that you must search the best evidence from *research*, which "for a good understander"[^6] means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the practice is called *Evidence*-Based Software Engineering. 
 
-> Stricly speaking, the EBSE imposes an artificial hierarchy between researchers and software engineers, which obviously is not going to be accepted by the latter. Why software engineers would have to accept prescriptions regarding how we should work, even in the form of the divine, pure and sublime evidence?
+> Strictly speaking, the EBSE imposes an artificial hierarchy between researchers and software engineers, which obviously is not going to be accepted by the latter. Why would software engineers have to accept prescriptions regarding how we should work, even in the form of the divine, pure and sublime evidence?
 
 Indeed, this ... Critics claim that EBM lacks utility on several levels. Some claim that it transforms the complex process of clinical decision making, which includes data gathering, years of medical knowledge, experience, and astute intuition into an algorithmic exercise that is not individualized for specific clinical scenarios and therefore subject to error in patient care.
 
