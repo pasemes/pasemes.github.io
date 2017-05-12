@@ -12,9 +12,7 @@ Since its proposal, EBM received huge attention. The term was then generalized f
 
 # Evidence-Based Software Engineering (in the view of researchers)
 
-Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. Before presenting my view about how EBP should be in software engineering, I'll present it "as is" (in the view of researchers). 
-
-The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the "hype of the moment", EBP should enable us to seek for the reasons to believe that a software development technology will provide the support we expect from it. Based on the definition from Medicine, the EBSE is defined as follows[^4]:
+Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. Before presenting my view about how EBP should be in software engineering, I'll present it "as is" (in the view of researchers). Based on the definition from Medicine, the EBSE is defined as follows[^4]:
 
 > To provide the means by which current best evidence from research can be integrated with practical experience and human values in the decision-making process regarding the development
 and maintenance of software.
@@ -27,7 +25,11 @@ To achieve this goal, researchers from Empirical Software Engineering operationa
 4. Integrate the appraised evidence with practical experience and the customer's values and circumstances to make decisions about practice;
 5. Evaluate performance and seek ways to improve it.
 
+The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the "hype of the moment", EBP should enable us to seek for the reasons to believe that a software development technology will provide the support we expect from it. But how you can find the evidence?
 
+I'll try to be succint here, since the steps do not make this clear. In fact, this is one of the problems of ESBE that I'll discuss at the end of this post). 
+
+From these steps, it is possible to see that ESBE depends 
 
 
 
@@ -37,7 +39,7 @@ Based on these definitions, I can't blame you for not knowing what ESBE is. I co
 
 > Stricly speaking, the EBSE imposes an artificial hierarchy between researchers and software engineers, which obviously is not going to be accepted by the latter. Why software engineers would have to accept prescriptions regarding how we should work, even in the form of the divine, pure and sublime evidence?
 
-Indeed, this ... Critics claim that EBM lacks utility on several levels. Some claim that it transforms the complex process of clinical decision making, which includes data gathering, years of medical knowledge, experience, and astute intuition into an algorithmic exercise that is not individualized for specific clinical scenarios and therefore subject to error in patient care
+Indeed, this ... Critics claim that EBM lacks utility on several levels. Some claim that it transforms the complex process of clinical decision making, which includes data gathering, years of medical knowledge, experience, and astute intuition into an algorithmic exercise that is not individualized for specific clinical scenarios and therefore subject to error in patient care.
 
 
 
