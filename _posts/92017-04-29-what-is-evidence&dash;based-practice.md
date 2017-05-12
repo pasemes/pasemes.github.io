@@ -40,9 +40,13 @@ In addition to these issues, which I consider the most salient, there are severa
 
 # How can we change that? 
 
-The EBP is clearly not a panacea. Still, apart from the issues discussed, I hope that you are convinced that it is imperative we stop creating new technologies without any evidence regarding its utility and potential benefits. Hence, it is also urgent that we find the means to build body of evidence that are readily available for software engineers. In my view, there are three main areas that we must act upon: (i) software engineers need to produce evidence, (ii) a description format for evidence, and (iii) an infrastructure to support searching and managing the available evidence.
+The EBP is clearly not a panacea. Still, apart from the issues discussed, I hope that you are convinced that it is imperative we stop creating new technologies without any evidence regarding its utility and potential benefits. Hence, it is also urgent that we find the means to build a body of evidence that is readily available for software engineers. In my view, there are three main areas that we must act upon: (i) software engineers producing evidence from their practice, (ii) a description format[^8] for evidence, and (iii) an infrastructure to support searching and managing the available evidence. With these areas addressed, the EBP culture can flourish, and our community will benefit from informed decisions which will contribute to increasing our focus on software development technologies that (really) support our work.
 
-and It is my goal to contribute to this need in this blog. My intention is to 
+> We must act upon three areas: (i) software engineers producing evidence from their practice, (ii) a description format[^8] for evidence, and (iii) an infrastructure to support searching and managing the available evidence.
+
+In this blog, I expect to contribute 
+
+
 
 
 [^1]: Evidence represents "one or more (factual) reasons for believing that something is or is not true". This definition was discussed on the previous [post].(http://www.evidencebasedpractice.se/blog/welcome-to-the-blog/).
@@ -52,3 +56,4 @@ and It is my goal to contribute to this need in this blog. My intention is to
 [^5]: [Evidence-based software engineering for practitioners](http://ieeexplore.ieee.org/document/1377125/).
 [^6]: [Six years of systematic literature reviews in software engineering: An updated tertiary study](http://www.sciencedirect.com/science/article/pii/S0950584911001017).
 [^7]: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[^8]: In Medicine, there is a research field dedicated to this theme. It is called [Knowledge Translation](http://ph.cochrane.org/knowledge-translation).
