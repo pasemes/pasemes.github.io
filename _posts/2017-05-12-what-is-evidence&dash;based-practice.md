@@ -2,7 +2,7 @@
 layout: post
 title: "What is evidence-based practice?"
 tags: [evidence-based software engineering]
-bigimg: /img/blog/cloud_what_is_ebp_1.jpg
+bigimg: /img/blog/cloud_what_is_ebp_1.png
 date: 2017-05-12 12:00:00 -0300
 permalink: /blog/what-is-evidence-based-practice/
 layout: post
