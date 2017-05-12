@@ -27,7 +27,7 @@ To achieve this goal, researchers from Empirical Software Engineering operationa
 
 The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the "hype of the moment", EBP should enable us to seek for the reasons to believe that a software development technology will provide the support we expect from it. But how you can find the evidence?
 
-I'll try to be succint here, since the steps do not make this clear. In fact, this is one of the problems of ESBE that I'll discuss at the end of this post). 
+I'll try to be succinct here since the steps do not make this clear. In fact, this is one of the problems of ESBE that I'll discuss at the end of this post. The process described above assumes that primary studies 
 
 From these steps, it is possible to see that ESBE depends 
 
