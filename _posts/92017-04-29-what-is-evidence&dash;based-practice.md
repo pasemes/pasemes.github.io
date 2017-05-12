@@ -36,13 +36,16 @@ Based on these definitions, I can't blame you for not knowing what ESBE is. I co
 
 As if that was not enough, precisely because most researchers impose this segregation between who investigate and who apply the findings, it is common to find results that are not directly applicable or are not relevant to the practice. Not to mention that when they are applicable, the results are usually "buried" in a highly technical propositional text written with the maximum rigor in mind, but not necessarily readability.  
 
-In addition to these issues, which I consider the most salient, there are several other discussions regarding the utility of EBP. For instance, some issues that are directly translatable from Medicine to our are Critics claim that EBM lacks utility on several levels. Some claim that it transforms the complex process of clinical decision making, which includes data gathering, years of medical knowledge, experience, and astute intuition into an algorithmic exercise that is not individualized for specific clinical scenarios and therefore subject to error in patient care.
+In addition to these issues, which I consider the most salient, there are several other discussions regarding the utility of EBP. For instance, some issues that are directly translatable from the critics of EBM. "Some claim that it transforms the complex process of clinical decision making, which includes data gathering, years of medical knowledge, experience, and astute intuition into an algorithmic exercise that is not individualized for specific clinical scenarios and therefore subject to error in patient care".
 
+# How can we change that? 
 
-[^1]: Evidence represents "one or more (factual) reasons for believing that something is or is not true". This definition was discussed on the previous [post](http://www.evidencebasedpractice.se/blog/welcome-to-the-blog/).
+The EBP is clearly not a panacea. Still, apart from the issues discussed, I hope that you are convinced that it is imperative we stop creating new technologies without any evidence regarding its utility and potential benefits.
+
+[^1]: Evidence represents "one or more (factual) reasons for believing that something is or is not true". This definition was discussed on the previous [post].(http://www.evidencebasedpractice.se/blog/welcome-to-the-blog/).
 [^2]: Guyatt GH. Evidence-based medicine. ACP J Club. 1991;114:A16.
 [^3]: [History of evidence-based medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263217/).
-[^4]: [Evidence-Based Software Engineering](http://dl.acm.org/citation.cfm?id=998675.999432)
-[^5]: [Evidence-based software engineering for practitioners](http://ieeexplore.ieee.org/document/1377125/)
-[^6]: [Six years of systematic literature reviews in software engineering: An updated tertiary study](http://www.sciencedirect.com/science/article/pii/S0950584911001017)
+[^4]: [Evidence-Based Software Engineering](http://dl.acm.org/citation.cfm?id=998675.999432).
+[^5]: [Evidence-based software engineering for practitioners](http://ieeexplore.ieee.org/document/1377125/).
+[^6]: [Six years of systematic literature reviews in software engineering: An updated tertiary study](http://www.sciencedirect.com/science/article/pii/S0950584911001017).
 [^7]: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
