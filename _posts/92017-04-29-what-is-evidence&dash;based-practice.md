@@ -6,16 +6,17 @@ Isn't that interesting? We expect that physicians base their practice on evidenc
 
 The notion of EBP dates from the beginning of the 1990s in the Medicine discipline. In 1990, Dr. Gordon Guyatt introduced a new concept called "Scientific Medicine" to describe a new method of teaching medicine at the bedside, using the critical appraisal techniques from Dr. David Sackett. One year later the term "Evidence-Based Medicine" (EBM) was coined in the ACP Journal Club Editorial[^2]. The basic idea of EBM is to bring more certainty to clinical decision making. Before EBM, "clinical practice was historically viewed as the 'art of medicine.' Expert opinion, experience, and authoritarian judgment were the foundation for decision making. The use of scientific methodology, as in biomedical research, and statistical analysis, as in epidemiology, were rare in the world of medicine."[^3] Looks familiar, eh? 
 
-> The basic idea of the Evidence-Based Medicine is to bring more certainty to clinical decision making.
+> In the case of Medicine, the basic idea of the EBP is to bring more certainty to clinical decision making.
 
 Since its proposal, EBM received huge attention. The term was then generalized from EBM to EBP. And several fields have adopted EBP aiming at improving its decision-making process such as Administration, Nursing, Marketing, and, of course, Software Engineering. In our case, EBP was brought in 2004 by Barbara Kitchenham and her colleagues in the International Conference on Software Engineering[^4]. Still, even though this was the first mention of EBP in Software Engineering, which was then denominated Evidence-Based Sofware Engineering (EBSE), the field promotes the evidence (through experimentation) since 1978. The general research topic under which experimentation and evidence are investigated is called Empirical Software Engineering.  
 
 # Evidence-Based Software Engineering (in the view of researchers)
 
-Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. 
+Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. Before presenting my view about how EBP should be in software engineering, I'll present it "as is" (in the view of researchers). 
+
 The EBP is about asking the right question (to search for the evidence available). Thus, instead of look for the "hype of the moment", EBP should enable us to seek for the reasons to believe that a software development technology will provide the support we expect from it. Based on the definition from Medicine, the EBSE is defined as follows[^4]:
 
-> To provide the means by which current best evidence from research can be integrated with practical experience and human values in the decision making process regarding the development
+> To provide the means by which current best evidence from research can be integrated with practical experience and human values in the decision-making process regarding the development
 and maintenance of software.
 
 Theoretically, researchers from Empirical Software Engineering operationalize ESBE in five steps[^5]:
@@ -51,7 +52,7 @@ Since them the EBP
 
 # My criticisms: why EBSE isn't widely adopted by software engineers?
 
-Based on these definitions, I can't blame you for not knowing what ESBE is. I could list a number of arguments for that, and indeed I will focus on them before finishing this post, but there is one which is sufficient to explain the situation. It says that you must search the best evidence from *research*, which "for a good understander"[^6] means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the name is *Evidence*-Based Software Engineering. 
+Based on these definitions, I can't blame you for not knowing what ESBE is. I could list a number of arguments for that, and indeed I will focus on them before finishing this post, but there is one which is sufficient to explain the situation. It says that you must search the best evidence from *research*, which "for a good understander"[^6] means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the practice is called *Evidence*-Based Software Engineering. 
 
 > Stricly speaking, the EBSE imposes an artificial hierarchy between researchers and software engineers, which obviously is not going to be accepted by the latter. Why software engineers would have to accept prescriptions regarding how we should work, even in the form of the divine, pure and sublime evidence?
 
