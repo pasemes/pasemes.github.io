@@ -14,8 +14,7 @@ Since its proposal, EBM received huge attention. The term was then generalized f
 
 Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. Before presenting my view about how EBP should be in software engineering, I'll present it "as is" (in the view of researchers). Based on the definition from Medicine, the EBSE is defined as follows[^4]:
 
-> To provide the means by which current best evidence from research can be integrated with practical experience and human values in the decision-making process regarding the development
-and maintenance of software.
+> To provide the means by which current best evidence from research can be integrated with practical experience and human values in the decision-making process regarding the development and maintenance of software.
 
 To achieve this goal, researchers from Empirical Software Engineering operationalize ESBE in five steps[^5]:
 
@@ -27,15 +26,15 @@ To achieve this goal, researchers from Empirical Software Engineering operationa
 
 The EBP is about asking the right question (to search for the evidence available --- step 1). Thus, instead of look for the "hype of the moment", EBP should enable us to seek for the reasons to believe that a software development technology will provide the support we expect from it. But how you can find the evidence?
 
-I'll try to be succinct here since the steps do not make this clear. They only hint that you will find the answer for your problem in the literature. However, surveying the literature is a hard task. There are a huge amount of scientific articles published  --- not to mention , which must be screened to obtain the answer. To perform this orderly, systematic review is proposed as a procedure to translate the "right question" into a search string and the criteria to appraise the evidence (steps 2 and 3). Fortunately, several software engineering topics have been target of systematic reviews (up until 2010 there were 67 reviews covering 24 topics[^6]). After that you are on your own (steps 4 and 5), it is expected that you understand the papers and can extract the necessary information to integrate the evidence with your practical experience. As one can see, this is not an easy task as well. Below, I'll explore this and other aspects regarding the researcher view of EBSE.
+I'll try to be succinct here since the steps do not make this clear. They only hint that you will find the answer for your problem in the literature. However, surveying the literature is a hard task. There are a huge amount of scientific articles published  --- not to mention, which must be screened to obtain the answer. To perform this orderly, systematic review is proposed as a procedure to translate the "right question" into a search string and the criteria to appraise the evidence (steps 2 and 3). Fortunately, several topics in software engineering have been targeted of systematic reviews (up until 2010 there were 67 reviews covering 24 topics[^6]). After that you are on your own (steps 4 and 5), it is expected that you understand the papers and can extract the necessary information to integrate the evidence with your practical experience. As one can see, this is not an easy task as well. Below, I'll explore this and other aspects regarding the researcher view of EBSE.
 
-# My criticisms: why EBSE isn't widely adopted by software engineers?
+# Why EBSE isn't widely adopted by software engineers?
 
 Based on these definitions, I can't blame you for not knowing what ESBE is. I could list a number of arguments for that, but there is one which in my view is sufficient to explain the situation. It says that you must search the best evidence from *research*, which "for a good understander"[^7] means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the practice is called *Evidence*-Based Software Engineering. 
 
 > Strictly speaking, the EBSE imposes an artificial hierarchy between researchers and software engineers, which obviously is not going to be accepted by the latter. Why would software engineers have to accept prescriptions regarding how we should work, even in the form of evidence?
 
-As if that was not enough, precisely because most researchers impose this segregation among who investigate and who apply the findings, it is common to find results that are not directly applicable or are not relevant to the practice. 
+As if that was not enough, precisely because most researchers impose this segregation among who investigate and who apply the findings, it is common to find results that are not directly applicable or are not relevant to the practice. Not to mention 
 
 Indeed, this ... Critics claim that EBM lacks utility on several levels. Some claim that it transforms the complex process of clinical decision making, which includes data gathering, years of medical knowledge, experience, and astute intuition into an algorithmic exercise that is not individualized for specific clinical scenarios and therefore subject to error in patient care.
 
