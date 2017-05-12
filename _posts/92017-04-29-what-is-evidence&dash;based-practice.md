@@ -44,13 +44,13 @@ The EBP is clearly not a panacea. Still, apart from the issues discussed, I hope
 
 > We must act upon three areas: (i) software engineers producing evidence from their practice, (ii) a description format[^8] for evidence, and (iii) an infrastructure to support searching and managing the available evidence.
 
-In this blog, I expect to contribute to all these areas. Regarding the item (i), it is my intention to make this blog a reference for how you can produce (and use) evidence. For the second item, I'll present evidence published in scientific journals, concentrating --- and translating if necessary --- on the relevant aspects to inform decisions on practice. By the way, if you have any theme you are interested in what is there in terms of evidence, please leave a comment. I also intend to discuss about the description format itself. The last item is a community endeavor; I'm optimistic that we can start this together.
+In this blog, I expect to contribute to all these areas. Regarding the item (i), it is my intention to make this blog a reference for how you can produce (and use) evidence. For the second item, I'll present evidence published in scientific journals, concentrating --- and translating if necessary --- on the relevant aspects to inform decisions on practice. By the way, if you have any theme you are interested in what is there in terms of evidence, please leave a comment. I also intend to discuss the description format itself. The last item is a community endeavor; I'm optimistic that we can start this together.
 
 [^1]: Evidence represents "one or more (factual) reasons for believing that something is or is not true". This definition was discussed on the previous [post].(http://www.evidencebasedpractice.se/blog/welcome-to-the-blog/).
-[^2]: Guyatt GH. Evidence-based medicine. ACP J Club. 1991;114:A16.
+[^2]: [Evidence-based medicine](http://www.acpjc.org/Content/114/2/issue/ACPJC-1991-114-2-A16.htm)
 [^3]: [History of evidence-based medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263217/).
 [^4]: [Evidence-Based Software Engineering](http://dl.acm.org/citation.cfm?id=998675.999432).
 [^5]: [Evidence-based software engineering for practitioners](http://ieeexplore.ieee.org/document/1377125/).
 [^6]: [Six years of systematic literature reviews in software engineering: An updated tertiary study](http://www.sciencedirect.com/science/article/pii/S0950584911001017).
-[^7]: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[^7]: Here in Brazil we use this expression to denote that the text or speak has an implicit meaning, which is easily deduced. The full proverb is: "for a good understander half word is enough" (literally translated from portuguese).
 [^8]: In Medicine, there is a research field dedicated to this theme. It is called [Knowledge Translation](http://ph.cochrane.org/knowledge-translation).
