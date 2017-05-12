@@ -60,6 +60,8 @@ In this blog, I expect to contribute to all these areas. Regarding the item (i),
 [^3]: [History of evidence-based medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263217/).
 [^4]: [Evidence-Based Software Engineering](http://dl.acm.org/citation.cfm?id=998675.999432).
 [^5]: [Evidence-based software engineering for practitioners](http://ieeexplore.ieee.org/document/1377125/).
+[Systematic Review in Software Engineering](http://www.cos.ufrj.br/uploadfile/es67905.pdf)
+
 [^6]: [Six years of systematic literature reviews in software engineering: An updated tertiary study](http://www.sciencedirect.com/science/article/pii/S0950584911001017).
 [^7]: Here in Brazil we use this expression to denote that the text or speak has an implicit meaning, which is easily deduced. The full proverb is: "for a good understander half word is enough" (literally translated from portuguese).
 [^8]: In Medicine, there is a research field dedicated to this theme. It is called [Knowledge Translation](http://ph.cochrane.org/knowledge-translation).
