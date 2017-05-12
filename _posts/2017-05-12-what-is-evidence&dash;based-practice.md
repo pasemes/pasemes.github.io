@@ -62,5 +62,5 @@ In this blog, I expect to contribute to all these areas. Regarding the item (i),
 [^5]: [Evidence-based software engineering for practitioners](http://ieeexplore.ieee.org/document/1377125/).
 [^6]: [Systematic Review in Software Engineering](http://www.cos.ufrj.br/uploadfile/es67905.pdf).
 [^7]: [Six years of systematic literature reviews in software engineering: An updated tertiary study](http://www.sciencedirect.com/science/article/pii/S0950584911001017).
-[^8]: Here in Brazil we use this expression to denote that the text or speak has an implicit meaning, which is easily deduced. The full proverb is: "for a good understander half word is enough" (literally translated from portuguese).
+[^8]: Here in Brazil we use this expression to denote that the text or speak has an implicit meaning, which is easily deduced. The full proverb is: "for a good understander half word is enough" (literally translated from Portuguese).
 [^9]: In Medicine, there is a research field dedicated to this theme. It is called [Knowledge Translation](http://ph.cochrane.org/knowledge-translation).
