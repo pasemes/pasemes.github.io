@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What is evidence-based practice?"
-tags: [evidence-based software engineering]
+title: "What is evidence-based practice and what does it mean for software engineers?"
+tags: [evidence-based practice, evidence-based software engineering]
 bigimg: /img/blog/DecisonMakingTree.jpg
 date: 2017-05-12 12:00:00 -0300
 permalink: /blog/what-is-evidence-based-practice/
