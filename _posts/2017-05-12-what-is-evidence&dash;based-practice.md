@@ -1,3 +1,16 @@
+---
+layout: post
+title: "What is evidence-based practice?"
+tags: [evidence-based software engineering]
+#bigimg: /img/blog/welcome-to-the-blog/evidence.jpg
+date: 2017-05-12 12:00:00 -0300
+permalink: /blog/what-is-evidence-based-practice/
+layout: post
+comments: true
+show-share: true
+show-subscribe: true
+---
+
 # A little bit of history
 
 Did you know that you are subject to the evidence-based practice (EBP) whenever you visit a doctor? Have you ever wondered why you are (usually =) so confident that your physician has the right treatment for you? Implicitly, it seems that all of us assume that the treatment is selected based on one or more (factual) reasons for believing that it will have positive effects on our illness. Not by chance, this is precisely the definition of evidence[^1].
