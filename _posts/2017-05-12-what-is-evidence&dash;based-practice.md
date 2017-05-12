@@ -25,7 +25,7 @@ Since its proposal, EBM received huge attention. The term was then generalized f
 
 # Evidence-Based Software Engineering (in the view of researchers)
 
-Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. Before presenting my view about how EBP should be in software engineering, I'll present it "as is" (in the view of researchers). Based on the definition from Medicine, the EBSE is defined as follows[^4]:
+Ok, so now that you know the origin of EBP and what it is about, it is time to understand how EBP can help our field to get out of the fashion-oriented industry to a real engineering field. Before presenting my view about how EBP should be in software engineering, I'll present it "as is" (in the view of researchers). Based on the definition from Medicine, the EBSE was defined as follows[^4]:
 
 > To provide the means by which current best evidence from research can be integrated with practical experience and human values in the decision-making process regarding the development and maintenance of software.
 
