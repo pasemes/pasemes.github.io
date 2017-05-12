@@ -13,7 +13,7 @@ show-subscribe: true
 
 # A little bit of history
 
-Did you know that you are subject to the evidence-based practice (EBP) whenever you visit a doctor? Have you ever wondered why you are (usually =) so confident that your physician has the right treatment for you? Implicitly, it seems that all of us assume that the treatment is selected based on one or more (factual) reasons for believing that it will have positive effects on our illness. Not by chance, this is precisely the definition of evidence[^1].
+Did you know that you are subject to the evidence-based practice (EBP) whenever you visit a doctor? Have you ever wondered why you are (usually =) so confident that your physician has the right treatment for you? Implicitly, it seems that all of us assume that the treatment is selected based on one or more (factual) reasons for believing that it will have positive effects on your illness. Not by chance, this is precisely the definition of evidence[^1].
 
 Isn't that interesting? We expect that physicians base their practice on evidence, but we in the software community seem to prefer to argue about whether a practice brings *happiness* or a framework provide an *elegant* solution for a problem. Not that these aspects aren't important, but you got the point. I have never met a software developer (outside the academic circle) that is aware of the EBP. If you are one, please leave a comment! I would be glad to know who (and how many) you are.
 
