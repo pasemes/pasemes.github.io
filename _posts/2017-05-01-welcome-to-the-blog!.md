@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to the blog! (Or where is the evidence regarding software development practices and tools?)"
 tags: [personal, meta, blog]
-bigimg: /img/blog/welcome-to-the-blog/evidence.jpg
+bigimg: /img/blog/evidence.jpg
 date: 2017-05-01 12:00:00 -0300
 permalink: /blog/welcome-to-the-blog/
 layout: post
