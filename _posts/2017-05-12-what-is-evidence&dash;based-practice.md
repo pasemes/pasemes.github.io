@@ -59,6 +59,8 @@ The EBP is clearly not a panacea. Still, apart from the issues discussed, I hope
 
 In this blog, I expect to contribute to all these areas. Regarding the item (i), it is my intention to make this blog a reference for how you can produce (and use) evidence. For the second item, I'll present evidence published in scientific journals, concentrating --- and translating if necessary --- on the relevant aspects to inform decisions on practice. By the way, if you have any theme you are interested in what is there in terms of evidence, please leave a comment. I also intend to discuss the description format itself. The last item is a community endeavor; I'm optimistic that we can start this together.
 
+-----------------------------
+
 [^1]: Evidence represents "one or more (factual) reasons for believing that something is or is not true". This definition was discussed on the previous [post].(http://www.evidencebasedpractice.se/blog/welcome-to-the-blog/).
 [^2]: [Evidence-based medicine](http://www.acpjc.org/Content/114/2/issue/ACPJC-1991-114-2-A16.htm)
 [^3]: [History of evidence-based medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263217/).
