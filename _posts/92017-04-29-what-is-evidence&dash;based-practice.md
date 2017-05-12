@@ -44,10 +44,7 @@ The EBP is clearly not a panacea. Still, apart from the issues discussed, I hope
 
 > We must act upon three areas: (i) software engineers producing evidence from their practice, (ii) a description format[^8] for evidence, and (iii) an infrastructure to support searching and managing the available evidence.
 
-In this blog, I expect to contribute 
-
-
-
+In this blog, I expect to contribute to all these areas. Regarding the item (i), it is my intention to make this blog a reference for how you can produce (and use) evidence. For the second item, I'll present evidence published in scientific journals, concentrating --- and translating if necessary --- on the relevant aspects to inform decisions on practice. By the way, if you have any theme you are interested in what is there in terms of evidence, please leave a comment. I also intend to discuss about the description format itself. The last item is a community endeavor; I'm optimistic that we can start this together.
 
 [^1]: Evidence represents "one or more (factual) reasons for believing that something is or is not true". This definition was discussed on the previous [post].(http://www.evidencebasedpractice.se/blog/welcome-to-the-blog/).
 [^2]: Guyatt GH. Evidence-based medicine. ACP J Club. 1991;114:A16.
