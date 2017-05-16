@@ -27,7 +27,7 @@ Ok, so now that you know the origin of EBP and what it is about, it is time to u
 
 > To provide **the means by which current best evidence from research can be integrated with practical experience and human values in the decision-making process** regarding the development and maintenance of software.
 
-To achieve this goal, researchers from Empirical Software Engineering operationalized ESBE in five steps[^5]:
+To achieve this goal, researchers from Empirical Software Engineering operationalized EBSE in five steps[^5]:
 
 1. Convert a relevant problem or information need into an answerable question;
 2. Search the literature for the best available evidence to answer the question;
@@ -41,7 +41,7 @@ I'll try to be succinct here since the steps do not make this clear. They only h
 
 # Why EBSE isn't widely adopted by software engineers?
 
-Based on the above definitions, I can't blame you for not knowing what ESBE is. I could list a number of arguments for that, but there is one which in my view is sufficient to explain the situation. EBSE states that you must search the best evidence from *research*, which "for a good understander"[^8] means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the practice is called *Evidence*-Based Software Engineering. **Strictly speaking, the EBSE suggests an artificial hierarchy between researchers and software engineers, which obviously is not going to be accepted by the latter. Why would software engineers have to accept prescriptions regarding how we should work, even in the form of evidence?**
+Based on the above definitions, I can't blame you for not knowing what EBSE is. I could list a number of arguments for that, but there is one which in my view is sufficient to explain the situation. EBSE states that you must search the best evidence from *research*, which "for a good understander"[^8] means that software engineers do not know how they can provide evidence for technologies. Yes, it says that you can integrate it with practical experience, but it is clear that evidence (from research) is what is important. After all, the practice is called *Evidence*-Based Software Engineering. **Strictly speaking, the EBSE suggests an artificial hierarchy between researchers and software engineers, which obviously is not going to be accepted by the latter. Why would software engineers have to accept prescriptions regarding how we should work, even in the form of evidence?**
 
 As if that was not enough, precisely because most researchers commend this segregation between who investigate and who apply the findings, it is common to find results that are not directly applicable or are not relevant to the practice. Not to mention that when they are applicable, the results are usually "buried" in a highly technical propositional text written with the maximum rigor in mind, but not necessarily readability.  
 
