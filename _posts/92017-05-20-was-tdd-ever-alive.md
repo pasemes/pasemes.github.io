@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Was TDD ever alive? The reality regarding its "
+title: "Was TDD ever alive? The reality regarding its impacts on the productivity and quality"
 tags: [meta-analysis, synthesis, test first, test-driven development]
 bigimg: /img/blog/DecisonMakingTree.jpg
 date: 2017-05-12 12:00:00 -0300
