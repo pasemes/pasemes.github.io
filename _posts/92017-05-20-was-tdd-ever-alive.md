@@ -13,7 +13,7 @@ show-subscribe: true
 
 #The origin and the expected benefits of TDD
 
-TDD was re-discovered by Kent Back 
+TDD was re-discovered by Kent Back and throughoutly presented in his fam
 
 
 
