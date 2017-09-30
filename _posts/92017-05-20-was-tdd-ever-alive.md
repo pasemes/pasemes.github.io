@@ -15,6 +15,12 @@ show-subscribe: true
 
 TDD was re-discovered by Kent Back and thoroughly presented in his famous book "Test Driven Development: By Example". The basic idea behind the practice is to provide a continuous feedback regarding the current state of your development process in terms of the source code design and defects expectancy. TDD is among the cornerstone practices of the Extreme Programming (XP) development process, but it became so popular that was adopted as a stand-alone agile practice. 
 
+* Work with confidence
+* Work on a series of achievable steps instead of tackling a big problem all at once
+* Ensure that software design meets the need of the actual code
+* Leave behind a suite of tests to help preserve the integrity of the code
+
+
 
 However, despite suas promessas para sua disciplina requer dois passos cruciais. 1) automation 2) baby-steps 
 
