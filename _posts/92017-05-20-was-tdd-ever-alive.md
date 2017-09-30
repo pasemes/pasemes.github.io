@@ -18,5 +18,20 @@ TDD was re-discovered by Kent Back and thoroughly presented in his famous book "
 
 However, despite suas promessas para sua disciplina requer dois passos cruciais. 1) automation 2) baby-steps 
 
+1. Design and add a test.
+2. Run all tests and see the new one fail (red).
+3. Add enough implementation code to satisfy the new test.
+4. Run all tests, repeat 3 if necessary until all tests pass (green).
+5. Occasionally refactor to improve code structure.
+6. Run all tests after refactoring to ensure all tests pass.
+
+
 #The controversy: "TDD is dead. Long live testing"
+
+
+
+
+
+
+
 
