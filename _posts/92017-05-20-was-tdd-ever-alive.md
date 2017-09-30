@@ -13,7 +13,7 @@ show-subscribe: true
 
 #The origin and the expected benefits of TDD
 
-TDD was re-discovered by Kent Back and thoroughly presented in his famous book "Test Driven Development: By Example".
+TDD was re-discovered by Kent Back and thoroughly presented in his famous book "Test Driven Development: By Example". The basic idea behind the practice is to improve and provide a continous feedback regarding the current state of your development process in terms of the source code design and defects expectancy. TDD is among the cornestone practices of the Extreme Programming (XP) development process, but it became so popular that was adopted as a stand-alone agile practice. 
 
 
 
