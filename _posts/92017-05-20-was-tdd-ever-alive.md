@@ -20,7 +20,7 @@ TDD was rediscovered by Kent Back and thoroughly presented in his famous book "T
 * Ensure that software design meets the need of the actual code;
 * Leave behind a suite of tests to help preserve the integrity of the code.
 
-Despite the improvements associated with TDD, there are several possible drawbacks which are seldom discussed. Most of them are concerned with two main aspects: *testing before code* and the design aspects associated with it by the means of *refactoring*. The level of *automation* in terms of testing coverage is also a target of discussions. Those drawbacks remained hidden for several years mostly because of the religiosity to which most of developers devoted to the so-called "red-green-refactor cycle." 
+Despite the improvements associated with TDD, there are several possible drawbacks which are seldom discussed. Most of them are concerned with two main aspects: *testing before code* and the design aspects associated with it by the means of *refactoring*. The level of *automation* in terms of testing coverage is also a target of discussions. Those drawbacks remained hidden for several years mostly because of the religiosity to which most developers devoted to the so-called "red-green-refactor cycle." 
 
 
 
