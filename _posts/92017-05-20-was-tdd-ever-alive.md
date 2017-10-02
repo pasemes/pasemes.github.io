@@ -43,6 +43,10 @@ However, despite these  suas promessas para sua disciplina requer dois passos cr
 
 
 
+#The controversy: "TDD is dead. Long live testing"
+
+
+
 
 
 
