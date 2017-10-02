@@ -20,7 +20,11 @@ TDD was rediscovered by Kent Back and thoroughly presented in his famous book "T
 * Ensure that software design meets the need of the actual code;
 * Leave behind a suite of tests to help preserve the integrity of the code.
 
-Despite the improvements associated with TDD, there are several possible drawbacks 
+Despite the improvements associated with TDD, there are several possible drawbacks. Most of them are concerned with two main aspects: *testing before code* and the design aspects associated with it by the means of *refactoring*. The level of *automation* in terms of testing coverage is also target of discussions. Those drawbacks remained hidden for several years mostly because of the 
+
+
+
+ not usually openly discussed. 
 
 
 There are four primary notions that imperative for practice TDD: (i) testing before code, (ii) automation, (iii) refactoring, and (iv) baby-steps. From those, the most controversy is arguably associated with testing 
