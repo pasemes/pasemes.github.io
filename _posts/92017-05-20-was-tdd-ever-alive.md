@@ -24,9 +24,9 @@ Despite the improvements associated with TDD, there are several possible drawbac
 
 #The controversy: "TDD is dead. Long live testing"
 
-The David's posts and talks generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler discussed the subject in a live session that was broadcast on YouTube and currently has more than a hundred thousand views. In overall, they addressed five main 
+The David's posts and talks generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler discussed the subject. They produced a five-part series that were broadcast on YouTube.  The first video of the series has more than a hundred thousand views. 
 
-
+##Confidence
 
 
 
