@@ -20,25 +20,7 @@ TDD was rediscovered by Kent Back and thoroughly presented in his famous book "T
 * Ensure that software design meets the need of the actual code;
 * Leave behind a suite of tests to help preserve the integrity of the code.
 
-Despite the improvements associated with TDD, there are several possible drawbacks which are seldom discussed. Most of them are concerned with two main aspects: *testing before code* and the design aspects associated with it by the means of *refactoring*. The level of *automation* in terms of testing coverage is also a target of discussions. Those drawbacks remained hidden for several years mostly because of the religiosity to which most developers devoted to the so-called "red-green-refactor cycle." It was not up until 2014 that David Heinemeier posted in his blog the article entitled "TDD is dead. Long live testing" which is to the best of my knowledge the first with a great prestige in the open source community to touch this subject.  that 
-
-Nao foi ate 2004 que a historia mudou um pouco e uma das grandes vozes da comunidade teve a coragem de falar sobre as limitacoes de TDD (artigo "TDD is dead. Long live testing.").
- not usually openly discussed. 
-There are four primary notions that imperative for practice TDD: (i) testing before code, (ii) automation, (iii) refactoring, and (iv) baby-steps. From those, the most controversy is arguably associated with testing 
-
-However, despite these  suas promessas para sua disciplina requer dois passos cruciais. 1) automation 2) baby-steps 
-
-1. Design and add an automated test.
-1. Run all tests and see the new one fail (red).
-1. Add enough implementation code to satisfy the new test.
-1. Run all tests, repeat 3 if necessary until all tests pass (green).
-1. Occasionally refactor to improve code structure.
-1. Run all tests after refactoring to ensure all tests pass.
-
-
-#The controversy: "TDD is dead. Long live testing"
-
-
+Despite the improvements associated with TDD, there are several possible drawbacks which are seldom discussed. Most of them are concerned with two main aspects: *testing before code* and the design aspects associated with it by the means of *refactoring*. The level of *automation* in terms of testing coverage is also a target of discussions. Those drawbacks remained hidden for several years mostly because of the religiosity to which most developers devoted to the so-called "red-green-refactor cycle." It was not up until 2014 that David Heinemeier posted in his blog the article entitled [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html) which is to the best of my knowledge the first with a great prestige in the open source community to touch this subject.  
 
 #The controversy: "TDD is dead. Long live testing"
 
