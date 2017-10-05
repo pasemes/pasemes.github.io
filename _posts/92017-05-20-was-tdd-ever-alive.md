@@ -24,7 +24,7 @@ Despite the improvements associated with TDD, there are several possible drawbac
 
 #The controversy: "TDD is dead. Long live testing"
 
-
+The David's post generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler discuss the subject in a live 
 
 
 
