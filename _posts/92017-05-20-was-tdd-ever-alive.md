@@ -26,7 +26,10 @@ Despite the improvements associated with TDD, there are several possible drawbac
 
 The David's posts and talks generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler discussed the subject. They produced a five-part series that were broadcast on YouTube.  The first video of the series has more than a hundred thousand views. 
 
-##Confidence
+Confidence: TDD is just one way to programmers feel confident that their code works.  However, developers should mix up the concepts of TDD and self-testing code. One of the benefits of TDD 
+
+
+I think of TDD as a particular practice whose benefits include producing self-testing code.
 
 
 
