@@ -24,13 +24,13 @@ Despite the improvements associated with TDD, there are several possible drawbac
 
 #The controversy: is TDD dead?
 
-The David's posts and talks generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler came together to discuss the subject. They produced a five-part series that were broadcast on YouTube.  The first video of the series has more than a hundred thousand views. Each of the five topics addressed in the series is summarized below. They were based on the [post](https://martinfowler.com/articles/is-tdd-dead/) in which Martin Fowler reports their conversation.
+The David's posts and talks generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler came together to discuss the subject. They produced a five-part series that were broadcast on YouTube.  The first video of the series has more than a hundred thousand views. Each of the five topics addressed in the series is summarized below. This was based on the [post](https://martinfowler.com/articles/is-tdd-dead/) from Martin Fowler in which he reports their conversation.
 
 **Confidence:** TDD is one way to programmers feel confident that their code works.  However, developers should *not* mix up the concepts of TDD and self-testing code. One of the benefits of TDD includes producing self-testing code. Thus, TDD is not the only option to improve confidence. Furthermore, TDD is commonly practiced in a heavy mocking style, and people usually make bad trade-offs regarding the evaluation of whether it is worth making intermediate results testable. 
 
 **Design damage:** TDD puts an evolutionary pressure on the design. Most of the time it requires unnecessary indirection and complexity to make it easier to test. There are divergences regarding whether TDD is the only cause for that. For instance, is not this a general problem of software design, particularly concerning cohesion and coupling? Nevertheless, in some situations, the isolation and modularity are solely induced by TDD.
 
-**Feedback and QA**: 
+**Feedback and QA**: TDD provides feedback of three different aspects: (i) is the software doing something useful for the user? (ii) have I broken anything? (ii) is my code-base healthy? This feedback in the developers' hands 
 
 
 
