@@ -13,7 +13,7 @@ show-subscribe: true
 
 #The origin and the expected benefits of TDD
 
-TDD was rediscovered by Kent Back and thoroughly presented in his famous book "Test Driven Development: By Example". It was initially put among the cornerstone practices of the Extreme Programming (XP) development process, but it became so popular that was adopted as a stand-alone agile practice. In a period when software testing was regarded as something for mature organizations performed usually at the end of lengthy releases, the rediscovery of TDD was an important instrument to support the introduction of some agile principles emerging at the time.  The basic idea attributed to TDD is to provide a continuous feedback regarding the current state of your development process in terms of the source code design improvement and defects expectancy reduction. As a result, TDD is extremely useful for several agile practices particularly those concerned with the short iterative nature of agile methods such as welcoming changes, maintaining a constant pace, and assessing the progress of working software. For this reason, its main expected benefits are:
+TDD was rediscovered by Kent Beck and thoroughly presented in his famous book "Test Driven Development: By Example". It was initially put among the cornerstone practices of the Extreme Programming (XP) development process, but it became so popular that was adopted as a stand-alone agile practice. In a period when software testing was regarded as something for mature organizations performed usually at the end of lengthy releases, the rediscovery of TDD was an important instrument to support the introduction of some agile principles emerging at the time.  The basic idea attributed to TDD is to provide a continuous feedback regarding the current state of your development process in terms of the source code design improvement and defects expectancy reduction. As a result, TDD is extremely useful for several agile practices particularly those concerned with the short iterative nature of agile methods such as welcoming changes, maintaining a constant pace, and assessing the progress of working software. For this reason, its main expected benefits are:
 
 * Work with confidence;
 * Work on a series of achievable steps instead of tackling a big problem all at once;
@@ -26,7 +26,11 @@ Despite the improvements associated with TDD, there are several possible drawbac
 
 The David's posts and talks generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler discussed the subject. They produced a five-part series that were broadcast on YouTube.  The first video of the series has more than a hundred thousand views. Each of the five topics addressed in the series is summarized below. They are
 
-*Confidence:* TDD is one way to programmers feel confident that their code works.  However, developers should mix up the concepts of TDD and self-testing code. One of the benefits of TDD includes producing self-testing code. Thus, confidence is not the only option to improve confidence. It seems that 
+**Confidence:** TDD is one way to programmers feel confident that their code works.  However, developers should *not* mix up the concepts of TDD and self-testing code. One of the benefits of TDD includes producing self-testing code. Thus, TDD is not the only option to improve confidence. Furthermore, TDD is commonly practiced in a heavy mocking style, and people usually make bad trade-offs regarding the evaluation of whether it is worth making intermediate results testable. 
+
+
+
+It seems that the personal preferences represent an important aspect while choosing to practice TDD. For instance, for Kent TDD reminds him of how he learned mathematics at school ­-- always needing examples. For David, people usually make bad trade-offs particularly considering the heavy mocking style while us
 
 
 
