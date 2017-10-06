@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Was Test-Driven Development ever alive? The reality regarding its impacts on the productivity and quality"
+title: "Was Test-Driven Development ever alive? The reality regarding its impacts on the productivity and software quality"
 tags: [meta-analysis, synthesis, test first, test-driven development]
 bigimg: /img/blog/DecisonMakingTree.jpg
 date: 2017-05-12 12:00:00 -0300
