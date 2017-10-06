@@ -28,7 +28,8 @@ The David's posts and talks generated a lot of fuss. To the point that he, Kent 
 
 **Confidence:** TDD is one way to programmers feel confident that their code works.  However, developers should *not* mix up the concepts of TDD and self-testing code. One of the benefits of TDD includes producing self-testing code. Thus, TDD is not the only option to improve confidence. Furthermore, TDD is commonly practiced in a heavy mocking style, and people usually make bad trade-offs regarding the evaluation of whether it is worth making intermediate results testable. 
 
-**Design damage:** TDD puts an evolutionary pressure on the design. Most of the time it requires unnecessary indirection and complexity to make it easier to test in  
+**Design damage:** TDD puts an evolutionary pressure on the design. Most of the time it requires unnecessary indirection and complexity to make it easier to test. There are divergences regarding whether TDD is the only cause for that. For instance, is not this a general problem of software design, particularly concerning cohesion and coupling? Nevertheless, in some situations the isolation and modularity are solely induced by TDD.
+
 
 
 
