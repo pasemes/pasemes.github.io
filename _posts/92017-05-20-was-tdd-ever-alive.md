@@ -22,9 +22,9 @@ TDD was rediscovered by Kent Beck and thoroughly presented in his famous book "T
 
 Despite the improvements associated with TDD, there are several possible drawbacks which are seldom discussed. Most of them are concerned with two main aspects: *testing before code* and the design aspects associated with it by the means of *refactoring*. The level of *automation* in terms of testing coverage is also a target of discussions. Those drawbacks remained hidden for several years mostly because of the religiosity to which most developers devoted to the so-called "red-green-refactor cycle." It was not up until 2014 that David Heinemeier Hanson posted in his blog the article entitled [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html) which is to the best of my knowledge the first with a great prestige in the open source community to touch this subject.  
 
-#The controversy: "TDD is dead. Long live testing"
+#The controversy: is TDD dead?
 
-The David's posts and talks generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler discussed the subject. They produced a five-part series that were broadcast on YouTube.  The first video of the series has more than a hundred thousand views. Each of the five topics addressed in the series is summarized below. They were based on the Martin Fowle
+The David's posts and talks generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler came together to discuss the subject. They produced a five-part series that were broadcast on YouTube.  The first video of the series has more than a hundred thousand views. Each of the five topics addressed in the series is summarized below. They were based on the [post](https://martinfowler.com/articles/is-tdd-dead/) in which Martin Fowler reports their conversation.
 
 **Confidence:** TDD is one way to programmers feel confident that their code works.  However, developers should *not* mix up the concepts of TDD and self-testing code. One of the benefits of TDD includes producing self-testing code. Thus, TDD is not the only option to improve confidence. Furthermore, TDD is commonly practiced in a heavy mocking style, and people usually make bad trade-offs regarding the evaluation of whether it is worth making intermediate results testable. 
 
