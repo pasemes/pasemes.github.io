@@ -24,11 +24,11 @@ Despite the improvements associated with TDD, there are several possible drawbac
 
 #The controversy: "TDD is dead. Long live testing"
 
-The David's posts and talks generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler discussed the subject. They produced a five-part series that were broadcast on YouTube.  The first video of the series has more than a hundred thousand views. Each of the five topics addressed in the series is summarized below. They are
+The David's posts and talks generated a lot of fuss. To the point that he, Kent Beck, and Martin Fowler discussed the subject. They produced a five-part series that were broadcast on YouTube.  The first video of the series has more than a hundred thousand views. Each of the five topics addressed in the series is summarized below. They were based on the Martin Fowle
 
 **Confidence:** TDD is one way to programmers feel confident that their code works.  However, developers should *not* mix up the concepts of TDD and self-testing code. One of the benefits of TDD includes producing self-testing code. Thus, TDD is not the only option to improve confidence. Furthermore, TDD is commonly practiced in a heavy mocking style, and people usually make bad trade-offs regarding the evaluation of whether it is worth making intermediate results testable. 
 
-**Design damage:** TDD puts an evolutionary pressure on the design. 
+**Design damage:** TDD puts an evolutionary pressure on the design. Most of the time it requires unnecessary indirection and complexity to make it easier to test in 
 
 
 
