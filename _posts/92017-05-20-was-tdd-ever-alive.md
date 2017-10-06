@@ -32,7 +32,7 @@ The David's posts and talks generated a lot of fuss. To the point that he, Kent 
 
 **Feedback and QA:** TDD provides feedback of three different aspects: (i) is the software doing something useful for the user? (ii) have I broken anything? (ii) is my code-base healthy? This feedback in the developers' hands is one of the most important elements of TDD (and self-testing code). However, the TDD's success had led to a neglect of QA. The other issue is that there is an emphasis on TDD benefits without a clear understanding of its costs. The conclusion is that TDD is probably better than the old dysfunctional relationship in which developers simply viewed QA as a someone else problem. But definitely not better than an effective QA team.  Still, it is the absence of a QA team can be important in some situations such as in the case of most startups. 
 
-**Costs:** over-testing is the main concern in the costs aspects. The primary cause for over-testing seems to be the notion that "a line of code should not be written without a failing test." 
+**Costs:** over-testing is the main concern in this aspect. The primary cause for over-testing seems to be the notion that "a line of code should not be written without a failing test." this means that when one need to change behaviour, there is more code to change. 
 
 
 
