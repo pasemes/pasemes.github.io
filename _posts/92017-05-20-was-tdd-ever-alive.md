@@ -39,7 +39,9 @@ Although I deliberately did not cite the names in the above summary, it is possi
 Nevertheless, it is clear that all the discussion is based on their experiences. However, even though they are experienced and well-known, this does *not* represent evidence of TDD. That is, their observations were accumulated from a long period of time and thus are really subject to bias. For this reason, these opinions cannot be taken as evidence for either its benefits or drawbacks.   
 
 #The reality: results from 27 empirical studies
-In what follows, I will bring the main results of a meta-analysis study estudo meta-analise...
+In what follows, I will bring the main results of a meta-analysis study regarding TDD. Using the appropriate statistics, a meta-analysis combines the results of quantitative studies, which we call primary studies -- the study that combines primary studies is called secondary study. 
+
+Due to limitations of the evidence found, the meta-analysis only considers two aspects of TDD: productivity and external quality. 
 
 #Not dead but definitely not super healthy, either
 There are 
