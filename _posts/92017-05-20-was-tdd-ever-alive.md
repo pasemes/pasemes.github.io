@@ -36,7 +36,8 @@ The David's posts and talks generated a lot of fuss. To the point that he, Kent 
 
 From these topics, it is possible to see that the debaters  
 
-
+#The reality: results from 27 empirical studies
+In what follows, 
 
 
 
