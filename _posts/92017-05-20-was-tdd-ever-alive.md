@@ -39,7 +39,7 @@ Although I deliberately did not cite the names in the above summary, it is possi
 Nevertheless, it is clear that all the discussion is based on their experiences. However, even though they are experienced and well-known, this does *not* represent evidence of TDD. That is, their observations were acumulated from a long period of time and thus are really subject to bias. For this reason, these opinions cannot be taken as evidence for either its benefits or drawbacks.  
 
 #The reality: results from 27 empirical studies
-In what follows, 
+In what follows, estudo meta-analise...
 
 
 
