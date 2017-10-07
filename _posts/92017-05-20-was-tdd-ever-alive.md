@@ -34,7 +34,7 @@ The David's posts and talks generated a lot of fuss. To the point that he, Kent 
 
 **Costs:** over-testing is the main concern in this aspect. The primary cause for over-testing seems to be the notion that "a line of code should not be written without a failing test." this means that when one needs to change behavior, there is more code to change. It is hard to get the amount of testing just right, sometimes one will overshoot and sometimes undershoot. Thus, there is no worry to overshoot from time to time. Furthermore, one should not use the ratio of lines of test code to lines of production, since some situations require strict quality criteria (e.g., compilers). 
 
-Although I deliberately did not cite the names in the above sumary, it is possible to see that the debaters were very opinionated in their views. David brought several problems that he experienced using TDD during Rails construction whereas . 
+Although I deliberately did not cite the names in the above summary, it is possible to see that the debaters were very opinionated in their views. David brought several problems that he experienced using TDD during Rails construction whereas Kent pondered the arguments restating the TDD benefits. Martin complemented the discussion   
 
 #The reality: results from 27 empirical studies
 In what follows, 
