@@ -41,7 +41,9 @@ Nevertheless, it is clear that all the discussion is based on their experiences.
 #The reality: results from 27 empirical studies
 In what follows, I will bring the main results of a meta-analysis study regarding TDD. Using the appropriate statistics, a meta-analysis combines the results of quantitative studies, which we call primary studies -- the study that combines primary studies is called secondary study. 
 
-Due to limitations of the evidence found, the meta-analysis only considers two aspects of TDD: productivity and external quality. 
+Due to limitations of the evidence found, the meta-analysis only considers two aspects of TDD: productivity and external quality. The results are detailed below. 
+
+##
 
 #Not dead but definitely not super healthy, either
 There are 
