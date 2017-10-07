@@ -36,7 +36,7 @@ The David's posts and talks generated a lot of fuss. To the point that he, Kent 
 
 Although I deliberately did not cite the names in the above summary, it is possible to see that the debaters were very opinionated in their views. David brought several problems that he experienced using TDD during Ruby on Rails construction whereas Kent pondered the arguments restating the TDD benefits. For instance, it was David who mentioned the "evolutionary pressure on the design" and Kent answered it observing that the developer should consider "whether it is worth making intermediate results testable". Martin provided perspectives and thoughts which aptly complemented the discussion with his experiences as a consultant. In the costs of over-testing, Martin mentioned ThoughtWorks has a strong testing culture and, for this reason, it is certain that they have some over-tested code.
 
-Nevertheless, it is clear that all the discussion is based on their experiences. However, even though they are experienced and well-known, this does *not* represent evidence of TDD. That is, their observations were acumulated from a long period of time and thus are really subject to bias. For this reason, these opinions cannot be taken as evidence for either its benefits or drawbacks.  
+Nevertheless, it is clear that all the discussion is based on their experiences. However, even though they are experienced and well-known, this does *not* represent evidence of TDD. That is, their observations were accumulated from a long period of time and thus are really subject to bias. For this reason, these opinions cannot be taken as evidence for either its benefits or drawbacks.   
 
 #The reality: results from 27 empirical studies
 In what follows, estudo meta-analise...
