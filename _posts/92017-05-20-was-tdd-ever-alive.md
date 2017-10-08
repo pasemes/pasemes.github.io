@@ -41,7 +41,7 @@ Nevertheless, it is clear that all the discussion is based on their experiences.
 #The reality: results from 27 empirical studies
 In what follows, I will bring the main results of a meta-analysis study regarding TDD. Using the appropriate statistics, a meta-analysis combines the results of quantitative studies, which we call primary studies -- the study that combines primary studies is called secondary study. The primary studies compare TDD with either "iterative testing", i.e., interleaved with coding, or "test last", i.e., after major parts of or the full system was implemented. 
 
-Two analyses were necessary according to the data present in the studies. The standardized analysis is used when the primary study reports the mean and standard deviation for each subject group (TDD and 
+Two analyses were necessary according to the data present in the studies. The standardized analysis is used when the primary study reports the mean and standard deviation for each subject group (TDD and test last).
 
 Due to limitations of the evidence found, the meta-analysis only considers two aspects of TDD: productivity and external quality. The results are detailed below. 
 
