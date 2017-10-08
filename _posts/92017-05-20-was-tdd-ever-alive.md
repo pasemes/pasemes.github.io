@@ -46,7 +46,11 @@ Two analyses were necessary according to the data present in the studies. Both a
 Due to limitations of the evidence found, the meta-analysis only considers two aspects of TDD: productivity and external quality. The results are detailed below. 
 
 ##Results on external quality
-Eleven stardardized effect sizes were calculated based on the data from the experiments in which a total of 743 subjects took part. 
+
+
+
+
+Eleven standardized effect sizes were calculated based on the data from the experiments in which a total of 743 subjects took part. 
 
 #Not dead but definitely not super healthy, either
 There are 
