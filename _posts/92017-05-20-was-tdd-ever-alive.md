@@ -46,8 +46,14 @@ Two analyses were necessary according to the data present in the studies. Both a
 Due to limitations of the evidence found, the meta-analysis only considers two aspects of TDD: productivity and external quality. Also, the primary studies have different contexts. Some used students and, for this reason, are referred to as academic studies while others were conducted in a real-world environment with professionals and are named industrial studies. There were differences regarding the compared testing approach as well, i.e., "test last" or Waterfall and "iterative testing". Besides, several studies included other agile practices such as pair programming.
 
 ##Results on external quality
+Considering all studies 
 
 
+External quality
+
+
+
+![Forest plot on quality](https://github.com/pasemes/pasemes.github.io/blob/master/img/blog/was-tdd-ever-alive/quality_overall_fig4.png?raw=true "Forest plot on quality")
 
 
 Eleven standardized effect sizes were calculated based on the data from the experiments in which a total of 743 subjects took part. 
@@ -55,7 +61,7 @@ Eleven standardized effect sizes were calculated based on the data from the expe
 #Not dead but definitely not super healthy, either
 There are 
 
-[^1]: 
+
 
 
 
