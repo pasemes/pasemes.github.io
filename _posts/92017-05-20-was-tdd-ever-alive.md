@@ -43,7 +43,7 @@ In what follows, I will bring the main results of a [meta-analysis study regardi
 
 Two analyses were necessary according to the data present in the studies. Both analyses are used to estimate the *effect size*, which is represented by a number that tells you how much one group differs from another (i.e., TDD and test last). The standardized analysis uses the [Hedges' statistic](http://www.statisticshowto.com/hedges-g/), which requires that the primary study reports the mean and standard deviation for each group. Otherwise, when these data are not present, the unstandardized analysis is applied, which is a basic percentage comparison -- it does not consider, for instance, the mean, the standard deviation, and the groups' size. 
 
-Due to limitations of the evidence found, the meta-analysis only considers two aspects of TDD: productivity and external quality. The primary studies have different contexts. Some used 
+Due to limitations of the evidence found, the meta-analysis only considers two aspects of TDD: productivity and external quality. The primary studies have different contexts. Some used students and, for this reason, are referred to as academic studies while other were conducted in a real-world environment with professionals. There were differences regarding the compared 
 
 
  The results are detailed below. 
