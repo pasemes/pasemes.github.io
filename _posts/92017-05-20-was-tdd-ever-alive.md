@@ -59,7 +59,7 @@ The data for the **standardized analysis** shows that **there is no difference r
 
 There were more effect sizes from industrial settings in the case of the **unstandardized analysis** -- a total of 8 from the 24. The results show an **improvement of 52% in favor of TDD in industrial settings.** This value drops to 10% in the case of academic studies. **An overall improvement of 24% is obtained** when all effect sizes are considered together. 
 
-> In summary, 
+> In summary, TDD is superior to iterative testing or test last 
 
 
 TDD FAVORECE EXTERNAL QUALITY.
