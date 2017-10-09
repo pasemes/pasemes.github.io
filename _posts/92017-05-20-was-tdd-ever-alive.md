@@ -53,7 +53,7 @@ The external quality aspect was evaluated using different metrics:
 * number/percentage of acceptance/black-box/external tests passed;
 * number/percentage of unit tests passed, and quality mark given by client.
 
-Eleven standardized and twenty four unstandardized effect sizes were calculated based for external quality.
+Eleven standardized and twenty-four unstandardized effect sizes were calculated for external quality. The data for the standardized analysis show that there is no difference regarding TDD and the compared groups (an effect size of 
 
 
 
