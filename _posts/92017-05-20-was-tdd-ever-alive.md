@@ -11,7 +11,7 @@ show-share: true
 show-subscribe: true
 ---
 
-#The origin and the expected benefits of TDD
+#The origin and the expected benefits of TDD 
 
 TDD was rediscovered by Kent Beck and thoroughly presented in his famous book "Test Driven Development: By Example". It was initially put among the cornerstone practices of the Extreme Programming (XP) development process, but it became so popular that was adopted as a stand-alone agile practice. In a period when software testing was regarded as something for mature organizations performed usually at the end of lengthy releases, the rediscovery of TDD was an important instrument to support the introduction of some agile principles emerging at the time.  The basic idea attributed to TDD is to provide a continuous feedback regarding the current state of your development process in terms of the source code design improvement and defect expectancy reduction. As a result, TDD is essential for several agile practices particularly those concerned with the short iterative nature of agile methods such as welcoming changes, maintaining a constant pace, and assessing the progress of working software. For this reason, its main expected benefits are:
 
