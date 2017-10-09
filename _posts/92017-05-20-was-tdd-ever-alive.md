@@ -60,9 +60,9 @@ The data for the standardized analysis shows that **there is no difference regar
 There were more effect sizes from industrial settings in the case of the unstandardized analysis -- a total of 8 from the 24. **The results show an improvement of 52% in favor of TDD in industrial settings.** This value drops to 10% in the case of academic studies. An overall improvement of 24% is obtained when all effect sizes are considered together. 
 
 
+> In summary, TDD FAVORECE EXTERNAL QUALITY.
 
-
-
+##Results on external quality
 
 
 Considering all studies under the standardized analysis  
@@ -78,7 +78,9 @@ External quality
 
 
 #Not dead but definitely not super healthy, either
-There are 
+A controversia foi baseada em opinioes, mas aqui apresentamos evidencia.
+Uma pena que nao temos evidencia sobre a parte do design e custos (ainda que produtividade +- reflita este ultimo aspecto).
+De qualquer maneira, considerando os dois aspectos abordados, TDD traz sim beneficios. Mas nao tanto quanto alguns dos seus defensores prometem. As evidencias nos trazem maior seguranca para fazer estas afirmacoes.
 
 
 
