@@ -46,7 +46,7 @@ Two analyses were necessary according to the data present in the studies. Both a
 Due to limitations of the evidence found, the meta-analysis only considers two aspects of TDD: productivity and external quality. Also, the primary studies have different contexts. Some used students and, for this reason, are referred to as academic studies while others were conducted in a real-world environment with professionals and are named industrial studies. There were differences regarding the compared testing approach as well, i.e., "test last" or Waterfall and "iterative testing". Besides, several studies included other agile practices such as pair programming.
 
 ##Results on external quality
-Considering all studies 
+Considering all studies under the standardized analysis  
 
 
 External quality
