@@ -70,6 +70,9 @@ The productivity aspect was evaluated using different metrics:
 * Delivered noncommented LOC per unit development effort (or effort per ideal programming hour); 
 * Hours per feature/development effort per LOC.
 
+
+
+
 #Not dead but definitely not super healthy, either
 A controversia foi baseada em opinioes, mas aqui apresentamos evidencia.
 Uma pena que nao temos evidencia sobre a parte do design e custos (ainda que produtividade +- reflita este ultimo aspecto).
