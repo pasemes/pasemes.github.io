@@ -48,7 +48,6 @@ Due to limitations of the evidence found, the meta-analysis only considers two a
 
 ##Results on external quality
 The external quality aspect was evaluated using different metrics:
-
 * number of defects/bugs/trouble reports/defect cases that were found;
 * defects per KLOC/defect density;
 * number/percentage of acceptance/black-box/external tests passed;
@@ -64,9 +63,12 @@ There were more effect sizes from industrial settings in the case of the **unsta
 
 ##Results on productivity
 The productivity aspect was evaluated using different metrics:
-
-
-
+* Development time/person hours spent/task time;
+* Total LOC divided by total effort, or the number of LOC per hour;
+* Total noncommented LOC;
+* Number of delivered stories per unit effort (or implemented user stories per hour);
+* Delivered noncommented LOC per unit development effort (or effort per ideal programming hour); 
+* Hours per feature/development effort per LOC.
 
 #Not dead but definitely not super healthy, either
 A controversia foi baseada em opinioes, mas aqui apresentamos evidencia.
