@@ -63,6 +63,8 @@ There were more effect sizes from industrial settings in the case of the **unsta
 > In summary, TDD is superior to the compared tested strategies (iterative testing or test last) regarding external quality in industrial settings. However, when it is isolated from other agile practices or used by inexperienced developers no difference is found.
 
 ##Results on productivity
+The productivity aspect was evaluated using different metrics:
+
 
 
 
@@ -70,6 +72,7 @@ There were more effect sizes from industrial settings in the case of the **unsta
 A controversia foi baseada em opinioes, mas aqui apresentamos evidencia.
 Uma pena que nao temos evidencia sobre a parte do design e custos (ainda que produtividade +- reflita este ultimo aspecto).
 De qualquer maneira, considerando os dois aspectos abordados, TDD traz sim beneficios. Mas nao tanto quanto alguns dos seus defensores prometem. As evidencias nos trazem maior seguranca para fazer estas afirmacoes.
+Por fim, a secondary study tal como uma meta-analysis, onde varios estudos sao agregados, esta sujeita a varias issues. Estas issues sao chamadas pelo nome de validity threat. In a secondary study, the threats are associated with the aggregation procedure itself and also can be carried over from the primary studies. 
 
 
 
