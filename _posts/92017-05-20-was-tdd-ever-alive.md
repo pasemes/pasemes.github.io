@@ -53,8 +53,8 @@ The external quality aspect was evaluated using different metrics:
 * number/percentage of acceptance/black-box/external tests passed;
 * number/percentage of unit tests passed, and quality mark given by client.
 
-Eleven standardized and twenty-four unstandardized effect sizes were calculated for external quality. The data for the standardized analysis show that there is no difference regarding TDD and the compared groups with an effect size of -0.010. Effect sizes with a value in the range 0.0-0.37, 0.38-1.0, and 1.0 and above can be considered as small, medium, and large sized effects, 
-espectively.
+Eleven standardized and twenty-four unstandardized effect sizes were calculated for external quality. The data for the standardized analysis shows that **there is no difference regarding TDD and the compared groups with an effect size of -0.010**. Effect sizes with a value in the range 0.0-0.37, 0.38-1.0, and 1.0 and above can be considered as small, medium, and large sized effects, 
+respectively. However, among the eleven standardized effect sizes, only one was based on 
 
 
 
