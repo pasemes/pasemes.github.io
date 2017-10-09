@@ -55,9 +55,9 @@ The external quality aspect was evaluated using different metrics:
 
 Eleven standardized and twenty-four unstandardized effect sizes were calculated for external quality. 
 
-The data for the standardized analysis shows that **there is no difference regarding TDD and the compared groups with an effect size of -0.010**. However, among the eleven standardized effect sizes, **only one study was from industrial settings, which had an effect size of 0.309.** In the case of ten effect sizes from the academic studies, the combined effect size was -0.049. Effect sizes with an *absolute* value in the range 0.0-0.37, 0.38-1.0, and 1.0 and above can be considered as small, medium, and large sized effects, respectively. And a positive value favors TDD whereas a negative one favors the compared approach (iterative or last).
+The data for the standardized analysis shows that **there is no difference regarding TDD and the compared groups with an effect size of -0.010**. However, among the eleven standardized effect sizes, **only one study was from industrial settings, which had an effect size of 0.309.** In the case of the ten effect sizes from the academic studies, the combined effect size was -0.049. Effect sizes with an *absolute* value in the range 0.0-0.37, 0.38-1.0, and 1.0 and above can be considered as small, medium, and large sized effects, respectively. And a positive value favors TDD whereas a negative one favors the compared approach (iterative or last).
 
-There were more effect sizes from industrial settings in the case of the unstandardized analysis -- a total of 8 from the 24. **The results show an improvement of 52% in favor of TDD in industrial settings.** This values drops to 10% in the case of academic studies. An overal improvement of 24% is obtained when all effect sizes are considered together. 
+There were more effect sizes from industrial settings in the case of the unstandardized analysis -- a total of 8 from the 24. **The results show an improvement of 52% in favor of TDD in industrial settings.** This value drops to 10% in the case of academic studies. An overall improvement of 24% is obtained when all effect sizes are considered together. 
 
 
 
