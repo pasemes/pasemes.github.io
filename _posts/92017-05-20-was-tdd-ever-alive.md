@@ -62,18 +62,7 @@ There were more effect sizes from industrial settings in the case of the unstand
 
 > In summary, TDD FAVORECE EXTERNAL QUALITY.
 
-##Results on external quality
-
-
-Considering all studies under the standardized analysis  
-
-
-External quality
-
-
-
-![Forest plot on quality](https://github.com/pasemes/pasemes.github.io/blob/master/img/blog/was-tdd-ever-alive/quality_overall_fig4.png?raw=true "Forest plot on quality")
-
+##Results on productivity
 
 
 
