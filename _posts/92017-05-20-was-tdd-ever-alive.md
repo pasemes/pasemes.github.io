@@ -59,7 +59,7 @@ The data for the **standardized analysis** show that **there is no difference re
 
 There were more effect sizes from industrial settings in the case of the **unstandardized analysis** -- a total of 8 from the 24. The results show an **improvement of 52% in favor of TDD in industrial settings.** This value drops to 10% in the case of academic studies. **An overall improvement of 24% is obtained** when all effect sizes are considered together. 
 
-> In summary, TDD is superior to the compared tested strategies (iterative testing or test last) regarding external quality in industrial settings. However, when it is isolated from other agile practices or used by inexperienced developers no difference is found.
+> In summary, TDD is *weakly* superior to the compared tested strategies (iterative testing or test last) regarding external quality in industrial settings. However, when it is isolated from other agile practices or used by inexperienced developers no difference was found.
 
 ##Results on productivity
 The productivity aspect was evaluated using different metrics:
