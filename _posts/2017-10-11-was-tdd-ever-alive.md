@@ -78,7 +78,7 @@ The results of the **unstandardized analysis show a decrease of -22% in producti
 
 > In summary, TDD is *moderately inferior* to the compared tested strategies (iterative testing or test last) regarding productivity in industrial settings. However, when it is isolated from other agile practices no difference was found. And when it is used by inexperienced developers it tends to favor the productivity.
 
-# Not dead but definitely not super healthy, either
+# Not dead but definitely not super alive, either
 Most of the controversy regarding TDD's benefits and drawbacks discussed in blogs and promoted in conferences are based on personal opinions and experiences. The results based on *empirical* evidence add facts to the discussion, making the evaluation of TDD objective. I hope that this post can convince you how the evidence-based practice can eliminate opinionated disputes and "flame-wars." 
 
 Unfortunately, there still no evidence regarding the TDD effects on the design, which is an important aspect of the practice. The same is true for the costs although it is directly related to productivity.  
