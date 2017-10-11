@@ -12,6 +12,8 @@ show-share: true
 show-subscribe: true
 ---
 
+> This is the first post presenting evidence of a software development practice. I have chosen TDD as the first topic because of the recent controversy regarding its benefits and the remarkable devotion dedicated to it by a significant part of software developers. The text begins recalling why this discussion began, but readers interested in just the results of TDD compared to automated unit testing in general can go directly to the [corresponding section](#meta-analysis-result). 
+
 # The origin and the expected benefits of TDD 
 
 TDD was rediscovered by Kent Beck and thoroughly presented in his famous book "Test Driven Development: By Example". It was initially put among the cornerstone practices of the Extreme Programming (XP) development process, but it became so popular that was adopted as a stand-alone agile practice. In a period when software testing was regarded as something for mature organizations performed usually at the end of lengthy releases, the rediscovery of TDD was an important instrument to support the introduction of some agile principles emerging at the time.  The basic idea attributed to TDD is to provide a continuous feedback regarding the current state of your development process in terms of the source code design improvement and defect expectancy reduction. As a result, TDD is essential for several agile practices particularly those concerned with the short iterative nature of agile methods such as welcoming changes, maintaining a constant pace, and assessing the progress of working software. For this reason, its main expected benefits are:
@@ -39,7 +41,7 @@ Although I deliberately did not cite the names in the above summary in order to 
 
 It is clear that all the discussion is based on their experiences. However, even though they are experienced and well-known, this does *not* represent evidence of TDD. That is, their observations were accumulated from a long period of time and thus are certainly subject to bias. For this reason, these opinions cannot be taken as evidence for either benefits or drawbacks of TDD.   
 
-# The reality: results from 27 empirical studies
+# The reality: results from 27 empirical studies (#meta-analysis-result)
 In what follows, I will bring the main results of a [meta-analysis study regarding TDD](http://ieeexplore.ieee.org/document/6197200/). Using the appropriate statistics, a meta-analysis combines the results of quantitative studies, which we call primary studies -- the study that combines primary studies is called secondary study. The primary studies compare TDD with either "iterative testing", i.e., interleaved with coding, or "test last", i.e., after major parts of or the full system was implemented. 
 
 Two analyses were necessary according to the data present in the studies. Both analyses are used to estimate the *effect size*, which is represented by a number that tells you how much one group differs from another (i.e., TDD and test last). The standardized analysis uses the [Hedges' statistic](http://www.statisticshowto.com/hedges-g/), which requires that the primary study reports the mean and standard deviation for each group. Otherwise, when these data are not present, the unstandardized analysis is applied, which is a basic percentage comparison -- it does not consider, for instance, the mean, the standard deviation, and the groups' size. *A positive effect size means represents a result favoring TDD whereas a negative one favors the compared approach (iterative or last)*. 
