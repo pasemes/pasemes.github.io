@@ -79,7 +79,10 @@ The results of the **unstandardized analysis show a decrease of -22% in producti
 > In summary, TDD is *moderately inferior* to the compared tested strategies (iterative testing or test last) regarding productivity in industrial settings. However, when it is isolated from other agile practices no difference was found. And when it is used by inexperienced developers it tends to favor the productivity.
 
 #Not dead but definitely not super healthy, either
-A controversia foi baseada em opinioes, mas aqui apresentamos evidencia.
+Most of the controversy regarding TDD's benefits and drawbacks discussed in blogs and promoted in conferences are based on personal opinions and experiences. The results based on *empirical* evidence add facts to the discussion, making the evaluation of TDD objective. I hope that this post can convince you how the evidence-based practice can eliminate opinionated disputes and "flame-wars." 
+
+Unfortunately, there still no evidence regarding the TDD effects on the design. 
+
 Uma pena que nao temos evidencia sobre a parte do design e custos (ainda que produtividade +- reflita este ultimo aspecto).
 De qualquer maneira, considerando os dois aspectos abordados, TDD traz sim beneficios. Mas nao tanto quanto alguns dos seus defensores prometem. As evidencias nos trazem maior seguranca para fazer estas afirmacoes.
 Por fim, a secondary study tal como uma meta-analysis, onde varios estudos sao agregados, esta sujeita a varias issues. Estas issues sao chamadas pelo nome de validity threat. In a secondary study, the threats are associated with the aggregation procedure itself and also can be carried over from the primary studies. 
