@@ -81,11 +81,11 @@ The results of the **unstandardized analysis show a decrease of -22% in producti
 #Not dead but definitely not super healthy, either
 Most of the controversy regarding TDD's benefits and drawbacks discussed in blogs and promoted in conferences are based on personal opinions and experiences. The results based on *empirical* evidence add facts to the discussion, making the evaluation of TDD objective. I hope that this post can convince you how the evidence-based practice can eliminate opinionated disputes and "flame-wars." 
 
-Unfortunately, there still no evidence regarding the TDD effects on the design. 
+Unfortunately, there still no evidence regarding the TDD effects on the design, which is an important aspect of the practice. The same is true for the costs although it is directly related to productivity.  
 
-Uma pena que nao temos evidencia sobre a parte do design e custos (ainda que produtividade +- reflita este ultimo aspecto).
-De qualquer maneira, considerando os dois aspectos abordados, TDD traz sim beneficios. Mas nao tanto quanto alguns dos seus defensores prometem. As evidencias nos trazem maior seguranca para fazer estas afirmacoes.
-Por fim, a secondary study tal como uma meta-analysis, onde varios estudos sao agregados, esta sujeita a varias issues. Estas issues sao chamadas pelo nome de validity threat. In a secondary study, the threats are associated with the aggregation procedure itself and also can be carried over from the primary studies. 
+Given the results, we can conclude that TDD favors the external quality to the detriment of productivity. Personaly, I was not expecting that TDD would reduce the defect density (i.e., improve the external quality) when compared to the other approaches, since the later were also implemented as automated unit tests but just not before the production code.
+
+At last, is should be stated that, even though it is expected that a secondary study is considerably more reliable,  it is also subject to different issues denominated validity threats. In a secondary study, the threats are associated with the aggregation procedure itself and also can be carried over from the primary studies. 
 
 
 
