@@ -72,7 +72,7 @@ The productivity aspect was evaluated using different metrics:
 
 Ten standardized and twenty-three unstandardized effect sizes were obtained for productivity.
 
-The data for the **standardized analysis** show that **there is no difference regarding TDD and the compared groups with an effect size of 0.048.** Again, repeating the pattern found in the external quality, **only one study was from industrial settings, however, in this case, it favors the compared approach with an effect size of -1.111.** The remaining nine studies were conducted in the academic settings and had a combined effect size of 0.187. 
+The data for the **standardized analysis** show that **there is no difference regarding TDD and the compared groups with an effect size of 0.048.** Again, repeating the pattern found in the external quality, **only one study was from industrial settings, however, in this case, it favors the compared approach with an effect size of -1.111.** The remaining nine studies were conducted in the academic settings and had a combined effect size of 0.187. As aforementioned, effect sizes with an *absolute* value in the range 0.0-0.37, 0.38-1.0, and 1.0 and above can be considered as small, medium, and large sized effects, respectively. And a positive value favors TDD whereas a negative one favors the compared approach (iterative or last).
 
 
 #Not dead but definitely not super healthy, either
