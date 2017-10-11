@@ -83,7 +83,7 @@ Most of the controversy regarding TDD's benefits and drawbacks discussed in blog
 
 Unfortunately, there still no evidence regarding the TDD effects on the design, which is an important aspect of the practice. The same is true for the costs although it is directly related to productivity.  
 
-Given the results, we can conclude that TDD favors the external quality to the detriment of productivity. Personaly, I was not expecting that TDD would reduce the defect density (i.e., improve the external quality) when compared to the other approaches, since the later were also implemented as automated unit tests but just not before the production code.
+Given the results, we can conclude that TDD favors the external quality to the detriment of productivity. Personally, I was not expecting that TDD would reduce the defect density (i.e., improve the external quality) when compared to the other approaches, since these approaches were also implemented as automated unit tests (just not before the production code).
 
 At last, is should be stated that, even though it is expected that a secondary study is considerably more reliable,  it is also subject to different issues denominated validity threats. In a secondary study, the threats are associated with the aggregation procedure itself and also can be carried over from the primary studies. 
 
