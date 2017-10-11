@@ -12,7 +12,7 @@ show-share: true
 show-subscribe: true
 ---
 
-> This is the first post presenting evidence of a software development practice. I have chosen TDD as the first topic because of the recent controversy regarding its benefits and the remarkable devotion dedicated to it by a significant part of software developers. The text begins recalling the recent controversy involved in this theme, but readers interested in just the results of TDD compared to automated unit testing in general can go directly to the [corresponding section](#the-reality:-results-from-27-empirical-studies). 
+> This is the first post presenting evidence of a software development practice. I have chosen TDD as the first topic because of the recent controversy regarding its benefits and the remarkable devotion dedicated to it by a significant part of software developers. The text begins recalling the recent controversy involved in this theme, but readers interested in just the results of TDD compared to automated unit testing in general can go directly to the [corresponding section](#the-reality-results-from-27-empirical-studies). 
 
 # The origin and the expected benefits of TDD 
 
