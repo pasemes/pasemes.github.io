@@ -12,7 +12,7 @@ show-share: true
 show-subscribe: true
 ---
 
-> This is the first post presenting evidence of a software development practice. I have chosen TDD as the first topic because of the recent controversy regarding its benefits and the remarkable devotion dedicated to it by a significant part of software developers. The text begins recalling the recent controversy involved in this theme, but readers interested in just the results of TDD compared to automated unit testing in general can go directly to the [corresponding section](#meta-analysis-result). 
+> This is the first post presenting evidence of a software development practice. I have chosen TDD as the first topic because of the recent controversy regarding its benefits and the remarkable devotion dedicated to it by a significant part of software developers. The text begins recalling the recent controversy involved in this theme, but readers interested in just the results of TDD compared to automated unit testing in general can go directly to the [corresponding section](#the-reality:-results-from-27-empirical-studies). 
 
 # The origin and the expected benefits of TDD 
 
@@ -41,7 +41,6 @@ Although I deliberately did not cite the names in the above summary in order to 
 
 It is clear that all the discussion is based on their experiences. However, even though they are experienced and well-known, this does *not* represent evidence of TDD. That is, their observations were accumulated from a long period of time and thus are certainly subject to bias. For this reason, these opinions cannot be taken as evidence for either benefits or drawbacks of TDD.   
 
-(#meta-analysis-result)
 # The reality: results from 27 empirical studies 
 In what follows, I will bring the main results of a [meta-analysis study regarding TDD](http://ieeexplore.ieee.org/document/6197200/). Using the appropriate statistics, a meta-analysis combines the results of quantitative studies, which we call primary studies -- the study that combines primary studies is called secondary study. The primary studies compare TDD with either "iterative testing", i.e., interleaved with coding, or "test last", i.e., after major parts of or the full system was implemented. 
 
