@@ -41,7 +41,8 @@ Although I deliberately did not cite the names in the above summary in order to 
 
 It is clear that all the discussion is based on their experiences. However, even though they are experienced and well-known, this does *not* represent evidence of TDD. That is, their observations were accumulated from a long period of time and thus are certainly subject to bias. For this reason, these opinions cannot be taken as evidence for either benefits or drawbacks of TDD.   
 
-# The reality: results from 27 empirical studies (#meta-analysis-result)
+(#meta-analysis-result)
+# The reality: results from 27 empirical studies 
 In what follows, I will bring the main results of a [meta-analysis study regarding TDD](http://ieeexplore.ieee.org/document/6197200/). Using the appropriate statistics, a meta-analysis combines the results of quantitative studies, which we call primary studies -- the study that combines primary studies is called secondary study. The primary studies compare TDD with either "iterative testing", i.e., interleaved with coding, or "test last", i.e., after major parts of or the full system was implemented. 
 
 Two analyses were necessary according to the data present in the studies. Both analyses are used to estimate the *effect size*, which is represented by a number that tells you how much one group differs from another (i.e., TDD and test last). The standardized analysis uses the [Hedges' statistic](http://www.statisticshowto.com/hedges-g/), which requires that the primary study reports the mean and standard deviation for each group. Otherwise, when these data are not present, the unstandardized analysis is applied, which is a basic percentage comparison -- it does not consider, for instance, the mean, the standard deviation, and the groups' size. *A positive effect size means represents a result favoring TDD whereas a negative one favors the compared approach (iterative or last)*. 
